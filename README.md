@@ -1,10 +1,10 @@
 ---
 ---
-# Crisp DNA - tech setup for the site
+# Bestbrains DNA-WIP - tech setup for the site
 
-Crisp DNA is a web site that describes how Crisp works and why. The source lives on github and is auto-published on [http://dna.crisp.se](http://dna.crisp.se) every time a change is pushed.
+Bestbrains DNA is a web site that describes how Bestbrains (will) works and why. The source lives on github and is auto-published on [http://dna-wip.bestbrains.dk](http://dna-wip.bestbrains.dk) every time a change is pushed.
 
-Below are instructions for how to set up a local development environment. Useful for when you want to make many changes and test locally before pushing to github. See [How to clone](http://dna.crisp.se/docs/how-to-copy.html) for more options on how to clone the Crisp model.
+Below are instructions for how to set up a local development environment. Useful for when you want to make many changes and test locally before pushing to github. See [How to clone](http://dna-wip.bestbrains.dk/docs/how-to-copy.html) for more options on how to clone the Bestbrains model.
 
 
 ## 1. Install GIT
@@ -15,8 +15,8 @@ Here's [how to install GIT](http://git-scm.com/book/en/v2/Getting-Started-Instal
 
 Tell git to download the crisp-dna source:
 
-    git clone https://github.com/crispab/crisp-dna.git
-	cd crisp-dna
+    git clone https://github.com/wilstrup/bestbrains-dna.git
+	cd cbestbrains-dna
 
 You should now have the whole thing, including the README.md file that you are reading right now!
 
@@ -48,7 +48,7 @@ Tell Jekyll to generate the site and serve it up:
 
 Or if you are lazy you can use the run script (which just does jekyll serve)
 
-That's it, your local copy of the Crisp DNA site should be up and running on
+That's it, your local copy of the Bestbrains DNA site should be up and running on
 [http://localhost:4000](http://localhost:4000)
 
 Every time you edit a source doc (under _docs) it will update the site automatically.

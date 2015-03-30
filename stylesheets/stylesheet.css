@@ -444,7 +444,7 @@ a {
   color: #20B720;
 }
 a:hover {
-  color: #2268b2;
+  color: #006700;
 }
 
 header {
@@ -664,7 +664,7 @@ form {
 
 #main-content h3:before {
   content: "///";
-  color: #9ddcff;
+  color: #3BC735;
   padding-right: 0.3em;
   margin-left: -2em;
 }
@@ -694,7 +694,7 @@ h4:before {
 }
 h5:before {
   content: "/////";
-  color: #9ddcff;
+  color: #3BC735;
   padding-right: 0.3em;
   margin-left: -3.2em;
 }
@@ -708,7 +708,7 @@ h5:before {
 }
 h6:before {
   content: "//////";
-  color: #9ddcff;
+  color: #3BC735;
   padding-right: 0.3em;
   margin-left: -3.7em;
 }
