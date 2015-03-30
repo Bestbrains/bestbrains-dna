@@ -19,7 +19,7 @@ Bestrains has existed for 15 years, and after many years of experimenting we've 
 
 Rather than formulate our own DNA from scratch, we decided to base our own description on the fine work of these people.
 
-And we encourage you to do the same? See "How to clone the Bestbrains DNA":how-to-copy.html.
+And we encourage you to do the same. See "How to clone the Bestbrains DNA":how-to-copy.html.
 
 h1. Contents
 
