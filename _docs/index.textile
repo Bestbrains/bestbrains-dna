@@ -1,39 +1,33 @@
 ---
-title: Crisp DNA
-next_section: what-is-crisp.html
+title: Bestbrains DNA
+next_section: what-is-bestbrains.html
 ---
 h1. What is this?
 
-This site is an "open-source":http://en.wikipedia.org/wiki/Open_source site describing how Crisp works and why. 
+This site is an "open-source":http://en.wikipedia.org/wiki/Open_source site describing how Bestbrains works and why. 
 
-"Crisp":https://www.crisp.se is a consulting company based in Stockholm, Sweden. But we aren't a very typical consulting company. For example:
+"Bestbrains":http://www.bestbrains.dk is a consulting company based in Copenhagen, Denmark. But we aren't a very typical consulting company. For example:
 
-* None of the 30+ consultants are actually employed by {{ site.company_name }} (although we do have a few employed office staff).
+* None of the 15+ consultants are actually employed by {{ site.company_name }} (although we do have a few employed office staff).
 * We have no managers, not even a CEO. Instead we rely on self-organization and transparency. Almost everything is bottom-up, and "anyone can drive any decision":decisions.html.
-* Crisp's main purpose is to enable consultants to be happy, and "Crisp Happiness Index":happiness-index.html is our driving metric. Strong revenue and delighted customers are a side effect, not a goal.
-* Crisp doesn't want to earn money from it's consultants. It is in practice a non-profit company (although not formally so). Consultants "keep most of what they earn":economic-model.html.
+* Bestbrains's main purpose is to enable consultants to be happy, and "Bestbrains Happiness Index":happiness-index.html is our driving metric. Strong revenue and delighted customers are a side effect, not a goal.
+* Bestbrains doesn't want to earn money from it's consultants. It is in practice a non-profit company (although not formally so). Consultants "keep most of what they earn":economic-model.html.
 * Our "ownership model":ownership-model.html is designed to keep our stock financially worthless. There is no incentive to "cash in".
 * Consultants are 100% autonomous. They can do whatever they want (as long as they don't hurt the brand or "our house":what-is-crisp.html), and work as much or as little as they want.
 
-We get a lot of questions about how this works in practice, especially from other consultants looking to create something similar. After many years of experimenting we've converged on a model that works well, basically the sweet spot between being an independent consultant and being an employee. So we decided to "open source":http://en.wikipedia.org/wiki/Open_source it.
+Bestrains has existed for 15 years, and after many years of experimenting we've converged on an operational model that works well, basically the sweet spot between being an independent consultant and being an employee. We found that a related company in Sweden, Crisp, operated in much the same way, and had decided to formulate and publish it as an open source recipy. Rather than define our own DNA from scratch, we decided to base the fine work of these people.
 
-Want to start a similar org? See "How to clone the Crisp DNA":how-to-copy.html.
 
-h2. Why open-source the Crisp DNA?
-
-* To make the world a better place! The model has helped us be happy and make a positive impact in the world, and publishing it may help others do the same.
-* Open-sourcing it is a fun social experiment, we're curious about what's going to happen :o)
-* By making our model public, we're more likely to keep it up-to-date and improve it as we learn.
-* Putting it on GitHub makes it easier for others to clone and evolve the model, and we can learn from that.
+Want to start a similar org? See "How to clone the Bestbrains DNA":how-to-copy.html.
 
 h1. Contents
 
 h2. Driving principles
 
-(these principles drive almost everything at Crisp)
+(these principles drive almost everything at Bestbrains)
 
-* "What is Crisp":what-is-crisp.html - the purpose of the company
-* "How Crisp works":how-crisp-works.html - summary of our model, and some driving principles.
+* "What is Bestbrains":what-is-bestbrains.html - the purpose of the company
+* "How Bestbrains works":how-bestbrains-works.html - summary of our model, and some driving principles.
 * "Why this works":why-this-works.html - why this model has served us so well
 
 h2. Core structure and practices
@@ -49,11 +43,11 @@ h2. Core structure and practices
 * "Bun protocol":bun-protocol.html - how do we handle customer enquiries and route to the right consultant?
 * "Dashboard":dashboard.html - how do we see the big picture?
 * "Office team":office-team.html - how do we handle admin and day-to-day operations?
-* "Board of directors":board.html - Swedish law requires that we have a BoD. So how does the BoD at Crisp work?
+* "Board of directors":board.html - Swedish law requires that we have a BoD. So how does the BoD at Bestbrains work?
 * "Our business":our-business.html - what type of work we do
 * "Visions":visions.html - How to you get a bunch of autonomous consultants to agree on a vision? Answer: have several :o)
 * "Sales":sales.html - how do we actually sell consultants?
-* "Crisp unconference":unconference.html - how our bi-annual unconference works
+* "Bestbrains unconference":unconference.html - how our bi-annual unconference works
 
 h2. Supporting practices
 
@@ -63,16 +57,16 @@ h2. Supporting practices
 * "Hand signals":hand-signals.html - how do have discussions in larger groups?
 * "Industries that we avoid":industries-that-we-avoid.html - why we avoid certain industries
 * "Hack summit":hack-summit.html - how we geek out together
-* "Crisplets":crisplets.html - how do bottom-up initiatives get funded?
+* "Brainlets":brainlets.html - how do bottom-up initiatives get funded?
 * "Conflict handling":conflict-handling.html - How do we make sure conflicts are constructive rather than destructive?
-* "Contracts":contracts.html - our internal contracts for Crisp membership, ownership, etc.
+* "Contracts":contracts.html - our internal contracts for Bestbrains membership, ownership, etc.
 * "Building competence":building-competence.html - how we learn from each other and improve
 * "Courses and event production":courses-and-event-production.html - how do courses and events get produced?
-* "Brand building":brand-building.html - how do we build the brand, both Crisp and personal brands?
+* "Brand building":brand-building.html - how do we build the brand, both Bestbrains and personal brands?
 
 h2. Meta
 
-* "How to clone the Crisp DNA":how-to-copy.html
+* "How to clone the Bestbrains DNA":how-to-copy.html
 
 
 
