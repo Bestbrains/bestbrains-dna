@@ -1,6 +1,6 @@
 ---
-title: How Crisp works
-prev_section: what-is-crisp.html
+title: How Bestbrains works
+prev_section: what-is-bestbrains.html
 next_section: why-this-works.html
 ---
 
