@@ -65,6 +65,9 @@ h2. Supporting practices
 * "Courses and event production":courses-and-event-production.html - how do courses and events get produced?
 * "Brand building":brand-building.html - how do we build the brand, both Bestbrains and personal brands?
 
+h2. Things to remember
+* "Other things we need to do something about - soon":things-we-need-to-decide.html - A list of challenges to work with 
+
 h2. Meta
 
 * "How to clone the Bestbrains DNA":how-to-copy.html
