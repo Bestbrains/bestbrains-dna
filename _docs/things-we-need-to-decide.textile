@@ -1,0 +1,33 @@
+---
+title: Thing we need to decide
+
+prev_section: index.html
+next_section: what-is-bestbrains.html
+---
+
+h1. Academy
+
+h2. State of today	
+	
+The BestBrains Academy is in the starting face - or maybe more correct - in a transition face, where it now is handled by one decicated person.
+The academy responsible person is part of the office staff.
+
+h1. Employeed consultants and others
+
+h2. How do we handle the employees
+
+We have 3-4 employees as it is ultimo april 2015. We need some aggreement on there situation
+
+h1. Internal salary
+
+h2. Do we need it for some tasks?
+
+The tasks which is handled by consultants should have some kind of salary
+
+* Board members
+* The employees responsible person
+
+* Mayby
+** Planning together with the office staff, e.g. Cafe meetings etc.
+** Accounting - revision and accept of payments etc.
+

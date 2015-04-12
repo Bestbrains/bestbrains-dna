@@ -34,6 +34,10 @@
   - courses-and-event-production.html
   - brand-building.html
 
+- title: Things to remember
+  docs:
+  - things-we-need-to-decide.html
+
 - title: Meta
   docs:
   - how-to-copy.html
