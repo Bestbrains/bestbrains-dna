@@ -13,7 +13,7 @@ This site is an "open-source":http://en.wikipedia.org/wiki/Open_source site desc
 * Bestbrains's main purpose is to enable consultants to be happy, and "Bestbrains Happiness Index":happiness-index.html is our driving metric. Strong revenue and delighted customers are a side effect, not a goal.
 * Bestbrains doesn't want to earn money from it's consultants. It is in practice a non-profit company (although not formally so). Consultants "keep most of what they earn":economic-model.html.
 * Our "ownership model":ownership-model.html is designed to keep our stock financially worthless. There is no incentive to "cash in".
-* Consultants are 100% autonomous. They can do whatever they want (as long as they don't hurt the brand or "our house":what-is-crisp.html), and work as much or as little as they want.
+* Consultants are 100% autonomous. They can do whatever they want (as long as they don't hurt the brand or "our house":what-is-bestbrains.html), and work as much or as little as they want.
 
 Bestrains has existed for 15 years, and after many years of experimenting we've converged on an operational model that works well, basically the sweet spot between being an independent consultant and being an employee. We found that a related company in Sweden, "Crisp AB":http://www.crisp.se, operated in much the same way, and had generously decided to formulate and publish it's model as an open source recipy. 
 
