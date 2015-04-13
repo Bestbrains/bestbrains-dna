@@ -16,7 +16,7 @@ Here's [how to install GIT](http://git-scm.com/book/en/v2/Getting-Started-Instal
 Tell git to download the bestbrains-dna source:
 
     git clone https://github.com/bestbrains/bestbrains-dna.git
-	cd cbestbrains-dna
+	cd bestbrains-dna
 
 You should now have the whole thing, including the README.md file that you are reading right now!
 
