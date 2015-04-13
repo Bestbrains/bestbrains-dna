@@ -15,12 +15,12 @@ Here's [how to install GIT](http://git-scm.com/book/en/v2/Getting-Started-Instal
 
 Tell git to download the bestbrains-dna source:
 
-    git clone https://github.com/wilstrup/bestbrains-dna.git
+    git clone https://github.com/bestbrains/bestbrains-dna.git
 	cd cbestbrains-dna
 
 You should now have the whole thing, including the README.md file that you are reading right now!
 
-The web site source files are under _docs, have a look! They are written using [textile](http://redcloth.org/textile) (a simpler format than html). When you push to github, it will automatically convert the pages to static html and build the site http://dna.crisp.se.
+The web site source files are under _docs, have a look! They are written using [textile](http://redcloth.org/textile) (a simpler format than html). When you push to github, it will automatically convert the pages to static html and build the site http://dna-wip.bestbrains.dk.
 
 ## 3. Install Jekyll and related tools
 
