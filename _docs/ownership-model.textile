@@ -5,7 +5,7 @@ next_section: economic-model.html
 ---
 
 bq(bb-proposal). We basically want the same, but as a Danish company. We're unsure whether we will continue to be an A/S, or whether a P/S or a.m.b.a. would suit us and the Danish laws better. We are seeking professional advice on this.
-I propose we don't touch this page until we have god that advice.
+I propose we don't touch this page until we have got that advice.
 _(bb-who)Morten_
 
 
