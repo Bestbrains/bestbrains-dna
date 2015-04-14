@@ -4,38 +4,38 @@ next_section: what-is-bestbrains.html
 ---
 h1. What is this?
 
-This site is an "open-source":http://en.wikipedia.org/wiki/Open_source site describing how Bestbrains works and why. 
+This site is an "open-source":http://en.wikipedia.org/wiki/Open_source site describing how {{ site.company_name }} works and why.
 
-"Bestbrains":http://www.bestbrains.dk is a consulting company based in Copenhagen, Denmark. But we aren't a very typical consulting company. For example:
+"{{ site.company_name }}":http://www.bestbrains.dk is a consulting company based in Copenhagen, Denmark. But we aren't a very typical consulting company. For example:
 
-* None of the 15+ consultants are actually employed by {{ site.company_name }} (although we do have a few employed office staff).
+* None of the 10+ consultants are actually employed by {{ site.company_name }} (although we do have a few employed office staff).
 * We have no managers, not even a CEO. Instead we rely on self-organization and transparency. Almost everything is bottom-up, and "anyone can drive any decision":decisions.html.
-* Bestbrains's main purpose is to enable consultants to be happy, and "Bestbrains Happiness Index":happiness-index.html is our driving metric. Strong revenue and delighted customers are a side effect, not a goal.
-* Bestbrains doesn't want to earn money from it's consultants. It is in practice a non-profit company (although not formally so). Consultants "keep most of what they earn":economic-model.html.
+* {{ site.company_name }}'s main purpose is to enable consultants to be happy, %(bb-pending)and "{{ site.company_name }} Happiness Index":happiness-index.html is our driving metric%. Strong revenue and delighted customers are a side effect, not a goal.
+* {{ site.company_name }} doesn't want to earn money from it's consultants. It is in practice a non-profit company (although not formally so). Consultants "keep most of what they earn":economic-model.html.
 * Our "ownership model":ownership-model.html is designed to keep our stock financially worthless. There is no incentive to "cash in".
 * Consultants are 100% autonomous. They can do whatever they want (as long as they don't hurt the brand or "our house":what-is-bestbrains.html), and work as much or as little as they want.
 
-Bestrains has existed for 15 years, and after many years of experimenting we've converged on an operational model that works well, basically the sweet spot between being an independent consultant and being an employee. We found that a related company in Sweden, "Crisp AB":http://www.crisp.se, operated in much the same way, and had generously decided to formulate and publish it's model as an open source recipy. 
+{{ site.company_name }} has existed for 15 years, and after many years of experimenting we've converged on an operational model that works well, basically the sweet spot between being an independent consultant and being an employee. We found that a related company in Sweden, "Crisp AB":http://www.crisp.se, operated in much the same way, and had generously decided to formulate and publish it's model as an open source recipy.
 
 Rather than formulate our own DNA from scratch, we decided to base our own description on the fine work of these people.
 
-And we encourage you to do the same. See "How to clone the Bestbrains DNA":how-to-copy.html.
+And we encourage you to do the same. See "How to clone the {{ site.company_name }} DNA":how-to-copy.html.
 
 h1. Contents
 
 h2. Driving principles
 
-(these principles drive almost everything at Bestbrains)
+(these principles drive almost everything at {{ site.company_name }})
 
-* "What is Bestbrains":what-is-bestbrains.html - the purpose of the company
-* "How Bestbrains works":how-bestbrains-works.html - summary of our model, and some driving principles.
+* "What is {{ site.company_name }}":what-is-bestbrains.html - the purpose of the company
+* "How {{ site.company_name }} works":how-bestbrains-works.html - summary of our model, and some driving principles.
 * "Why this works":why-this-works.html - why this model has served us so well
 
 h2. Core structure and practices
 
 (although these are core to our model, they are mostly just consequences of the principles above)
 
-* "Happiness index":happiness-index.html - how do we know if we are succeeding?
+* %(bb-pending)"Happiness index":happiness-index.html - how do we know if we are succeeding?%
 * "Ownership model":ownership-model.html - how do people become owners, and what ownership actually means?
 * "Economic model":economic-model.html - how does money flow through the system?
 * "How we make decisions":decisions.html - how do decisions get made when there is no manager?
@@ -48,7 +48,7 @@ h2. Core structure and practices
 * "Our business":our-business.html - what type of work we do
 * "Visions":visions.html - How to you get a bunch of autonomous consultants to agree on a vision? Answer: have several :o)
 * "Sales":sales.html - how do we actually sell consultants?
-* "Bestbrains unconference":unconference.html - how our bi-annual unconference works
+* "{{ site.company_name }} unconference":unconference.html - how our bi-annual unconference works
 
 h2. Supporting practices
 
@@ -57,20 +57,20 @@ h2. Supporting practices
 * "Email conventions":email-conventions.html - how we get transparency without information overflow
 * "Hand signals":hand-signals.html - how do have discussions in larger groups?
 * "Industries that we avoid":industries-that-we-avoid.html - why we avoid certain industries
-* "Hack summit":hack-summit.html - how we geek out together
+* %(bb-pending)"Hack summit":hack-summit.html - how we geek out together%
 * "Brainlets":brainlets.html - how do bottom-up initiatives get funded?
 * "Conflict handling":conflict-handling.html - How do we make sure conflicts are constructive rather than destructive?
-* "Contracts":contracts.html - our internal contracts for Bestbrains membership, ownership, etc.
+* "Contracts":contracts.html - our internal contracts for {{ site.company_name }} membership, ownership, etc.
 * "Building competence":building-competence.html - how we learn from each other and improve
 * "Courses and event production":courses-and-event-production.html - how do courses and events get produced?
-* "Brand building":brand-building.html - how do we build the brand, both Bestbrains and personal brands?
+* "Brand building":brand-building.html - how do we build the brand, both {{ site.company_name }} and personal brands?
 
 h2. Things to remember
-* "Other things we need to do something about - soon":things-we-need-to-decide.html - A list of challenges to work with 
+* "Other things we need to do something about - soon":things-we-need-to-decide.html - A list of challenges to work with
 
 h2. Meta
 
-* "How to clone the Bestbrains DNA":how-to-copy.html
+* "How to clone the {{ site.company_name }} DNA":how-to-copy.html
 
 
 

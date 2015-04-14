@@ -965,3 +965,7 @@ footer a:hover {
   color: green;
   padding-left: 20px;
 }
+
+.bb-pending { /* means we don't have this yet */
+  background-color: #C8FFC8;
+}
