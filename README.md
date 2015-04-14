@@ -53,4 +53,11 @@ That's it, your local copy of the Bestbrains DNA site should be up and running o
 
 Every time you edit a source doc (under _docs) it will update the site automatically.
 
+## 5. Bestbrains process
+Right now, we agreed to do trivial changes (replace Crisp with Bestbrains in the places where they talk about the company that the site is about, but not in the places where they talk about how they came up with it all).
 
+At the same time, identify places where you would propose that we make other changes (because that would be more right for Bestbrains). We add them inline in the documents, clearly marked. 
+
+I created such a proposal at the top of what-is-bestbrains.textile - this is then clearly marked in the css.
+
+Bo also created a new page, things-we-need-to-decide, add to that too.
