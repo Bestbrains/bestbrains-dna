@@ -6,6 +6,10 @@ next_section: how-bestbrains-works.html
 
 h1. What is Bestbrains and why?
 
+bq(bb-proposal). I propose that we create our own version of the A3, starting with a copy and then do incremental changes.
+The same for the values; they could be ours, but we might want to change some to use our own terms.
+_(bb-who)Morten_
+
 Our purpose is summarized in this A3. We refer to this as "our home" or "our house".
 
 !../assets/WhatIsCrispA3-sv.jpg(What is Crisp A3)!
