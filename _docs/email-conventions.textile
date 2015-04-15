@@ -16,7 +16,7 @@ bq. We've had this convention for many years and it works great, because it has 
 
 h2. OBS = "Read this!"
 
-bq. OBS stands for "Observera", the Swedish term for "Hey check this out!"
+bq. OBS stands for "observer" or "Vær opmærksom på ...", the Danish term for "Hey check this out!" or "Be aware of ..."
 
 So OBS is basically an announcement. Everyone should read it, but no response is needed.
 
