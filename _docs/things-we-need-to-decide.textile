@@ -27,7 +27,7 @@ The tasks which is handled by consultants should have some kind of salary
 * Board members
 * The employees responsible person
 
-* Mayby
+* Maybe
 ** Planning together with the office staff, e.g. Cafe meetings etc.
 ** Accounting - revision and accept of payments etc.
 
