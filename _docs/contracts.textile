@@ -8,8 +8,9 @@ h1. Team contract
 
 This is the contract you sign when you join Crisp.
 
-* "Team contract, Swedish original":team-contract-sv.html
+* "Team contract, Danish original":team-contract-da.html
 * "Team contract, English translation":team-contract-en.html
+* "Team contract, Swedish original from Crisp":team-contract-sv.html
 
 h1. Shareholder contract
 

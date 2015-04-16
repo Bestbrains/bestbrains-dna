@@ -1,0 +1,52 @@
+---
+title: Team contract, Swedish original
+---
+bq(bb-proposal). This is a changed contract taken from the proposal to a owners contract made by Sonny in 2014
+_(bb-who)Bo_
+
+h1. Ansættelseskontrakt
+
+h2. Gælder for
+
+BestBrains A/S, Sankt Gertruds Stræde 5, 3.sal, 1129 København K
+og
+NAVN, ADR
+
+h2. Vilkår
+
+Hermed ansættes FORNAVN i BestBrains fra DATO.
+
+Hvis det efter 2 år vurderes at samarbejdet skal fortsætte tilbydes FORNAVN medejerskab af BestBrains A/S.
+
+FORNAVNs forpligtelser ifølge denne aftale udføres af FORNAVN gennem FORNAVNs firma (FIRMANAVN, cvr: CVRNUMMER).
+
+Opgaverne omfatter bl.a. softwareudvikling og rådgivning for BestBrains' kunder samt softwareudvikling, systemadministration, markedsføring og salg for BestBrains.
+
+Arbejdet udføres dels hos BestBrains, dels hos BestBrains' kunder.
+
+Den ugentlige arbejdstid udgør op til 37 timer. FORNAVN skal føre timeseddel.
+
+FORNAVN sender en faktura til BestBrains A/S for en given måned. Fakturabeløbet udregnes som XX% af det fakturerede beløb af arbejde, som FORNAVN har udført i den forrige måned. Feriepenge er indeholdt i lønnen.  Desuden betales et fast beløb pr måned som fratrækkes fakturaen.
+
+FORNAVN forpligter sig til at behandle al viden om BestBrains' og BestBrains' kunders interne forhold fortroligt.
+
+
+BestBrains stiller mobiltelefon, computer og andet nødvendigt udstyr til rådighed for arbejdet.
+
+
+h2. Underskrift
+
+h3. For Bestbrains
+
+DIREKTØRNAVN
+Direktør, BestBrains A/S
+
+DATO
+
+
+h3. For FORNAVNs firma (FIRMANAVN)
+
+NAVN
+Direktør, FIRMANAVN
+
+DATO
