@@ -4,9 +4,13 @@ prev_section: sales.html
 next_section: email-conventions.html
 ---
 
+bq(bb-proposal). Should we adapt Crisps aganda and open space or describe the 'versionsdage' and our trips abroad
+Somehow it is very static to have papers like this describing the agena etc.
+_(bb-who)Bo_
+
 h1. Crisp Unconference
 
-Twice per year we do an internal unconference, in Sweden or abroad.
+Twice per year we do an internal unconference, in Denmark or abroad.
 
 An unconference is like a normal conference but with no predefined agenda, no predefined list of speakers, no slides, and… er… actually it’s not very much like a normal conference at all! It’s more like an alternative to a conference. If the purpose of a conference is to collaborate and communicate, then an unconference will often fulfill the same purpose in a more simple, fun, and effective way!
 
@@ -20,7 +24,7 @@ Through experimentation we've learned that twice per year is frequent enough to 
 
 h2. Where do we go?
 
-Varies. We normally alternate between a small local trips (2 days at a venue near Stockholm), followed by a bigger international trip (4 days in some interesting European city, like Barcelona or Rome or Istanbul).
+Varies. We normally alternate between a small local trips (2 days at a venue near Copenhagen), followed by a bigger international trip (4 days in some interesting city, like Barcelona or Rome or Istanbul).
 
 h2. Does everyone have to attend?
 
