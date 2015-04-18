@@ -6,6 +6,10 @@ next_section: sales.html
 
 h1. Visions
 
+bq(bb-proposal). Can we agree to have opt-in visions too?
+Create our own
+_(bb-who)Morten_
+
 One big aha in the Crisp evolution was when they "realized":http://blog.crisp.se/2010/05/08/henrikkniberg/1273272420000 that Crisp itself is just a platform. Crisp doesn't have a Vision (with a Big V), we just want Crisp to be a "nice home for consultants":what-is-bestbrains.html. Same for Bestbrains.
 
 However, many of the _people_ at Bestbrains do have a vision. Here are the most widely shared visions:

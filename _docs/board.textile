@@ -4,6 +4,10 @@ prev_section: office-team.html
 next_section: our-business.html
 ---
 
+bq(bb-proposal). We have been having a silent board, and then a Ledelsesudvalg/koordinationsudvalg - do we keep it like that?
+_(bb-who)Morten_
+
+
 h1. Board of directors
 
 Being a Danish company, we are required to have a board of directors. In most companies, the board is appointed by the owners to represent them so that the management group, headed by the CEO, runs the company according to the directives from the owners and the board.

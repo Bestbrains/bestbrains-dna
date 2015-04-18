@@ -4,10 +4,14 @@ prev_section: recruiting.html
 next_section: bun-protocol.html
 ---
 
+bq(bb-proposal). Revise with our own meeting scedule?
+Add: unconference? Pulse meetings? Signup?
+_(bb-who)Morten_
+
 h1. Communication
 
 Our *main internal communication channels* are:
-* "Crisp Unconference":unconference.html twice per year.
+* "{{ site.company_name }} Unconference":unconference.html twice per year.
 * Pulse meetings (or mini-conferences). These happen about twice per year, in between the unconferences. Typically a half day or whole day with some kind of theme, like "how we make decisions" or "how we handle conflict" or "how we run courses".
 * Team mailing list - a single mailing list with everyone on it. We use simple "email conventions":email-conventions.html to separate must-read stuff from general discussions, and the "Bun protocol":bun-protocol.html to route client inquiries to the right consultant.
 * "Board meetings":board.html every month.
@@ -27,7 +31,7 @@ Where we *store info*:
 How we *communicate with the outside world*:
 * Our website - "www.crisp.se":http://www.crisp.se
 * Our blog - "blog.crisp.se":http://blog.crisp.se
-* A mailing list for our customers and course participants, we send information about upcoming courses about once or twice per quarter. 
+* A mailing list for our customers and course participants, we send information about upcoming courses about once or twice per quarter.
 * Twitter - our twitter handle is "@crisp_":https://twitter.com/crisp_/
 * "Facebook":https://www.facebook.com/crisp.se
 * ... but the biggest channel of communication is of course the personal and informal channels - Crispers tweeting, blogging, and talking to friends and customers. Together we have a huge network!

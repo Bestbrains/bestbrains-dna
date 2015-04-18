@@ -14,18 +14,18 @@ Our two "core values":what-is-bestbrains.html "Freedom" and "Heart over Wallet" 
 
 On the other hand, our "Freedom" principle means that people can work with whatever they want, and some of us have no moral qualms with these industries.
 
-So what gives? 
+So what gives?
 
 To maintain a "happy home":what-is-bestbrains.html with mutual respect, we've agreed on this compromise:
 
 # Crisp doesn't work with industries that at least one Crisper has a strong opinion against (currently Arms and Surveillance).
-# If someone really wants to take on such a client, they must do so outside of Crisp. 
+# If someone really wants to take on such a client, they must do so outside of Crisp.
 
 h2. How do we decide which industries are blacklisted?
 
-If you are _strongly_ against any specific industry, bring it up at the next "unconference":unconference.html (or better yet, before joining Crisp). The decision boils down to how much you hate that industry vs how much others love it :o)
+If you are _strongly_ against any specific industry, bring it up at the next "unconference":unconference.html (or better yet, before joining Crisp). The decision boils down to how much you hate that industry vs how much others love it :^)
 
-A useful mental model is for each person to classify that industry: 
+A useful mental model is for each person to classify that industry:
 * *Green:*  “I love that industry, and I would be really upset if I’m not allowed to work with that”
 * *Grey:* “I'm OK with that industry, but if someone has a very strong opinion against, I’m OK with avoiding it.
 * *Black:* "It’s not OK for me to work with that industry. I think it will contaminate the Crisp brand, and I'd rather leave in that case."
@@ -36,7 +36,7 @@ The only problem we have is if the industry is Green for one person and Black fo
 
 h2. Is it OK to take an assignment within these industries?
 
-Through Crisp, no. Outside Crisp it’s up to the consultant. But no Crisp material is allowed to be used in that assignment, no connection to the brand Crisp at all. The consultant needs to take that through their own company. "Off the record" so to speak. 
+Through Crisp, no. Outside Crisp it’s up to the consultant. But no Crisp material is allowed to be used in that assignment, no connection to the brand Crisp at all. The consultant needs to take that through their own company. "Off the record" so to speak.
 
 h2. What if these are industries that I want to focus on?
 
@@ -47,7 +47,7 @@ If you are a Crisper already, you have some options:
 * *Option 2:* Adapt your stance. Change your own Green to Gray, and accept that the industry is blacklisted at Crisp.
 * *Option 3:* Leave Crisp.
 
-In practice this has never been a problem though. 
+In practice this has never been a problem though.
 
 h2. What happens when a client from these industries “knocks on the door”?
 

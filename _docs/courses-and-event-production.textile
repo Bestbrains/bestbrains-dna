@@ -10,9 +10,9 @@ Although we are at heart a consulting company, we do offer quite a lot of course
 
 h2. How we do courses
 
-Crisp itself doesn't really run courses, it just provides the platform. 
+Crisp itself doesn't really run courses, it just provides the platform.
 
-Anyone at Crisp can organize a course (or any kind of event), and when they do so they implicitly take on the Producer role for that course. 
+Anyone at Crisp can organize a course (or any kind of event), and when they do so they implicitly take on the Producer role for that course.
 
 Driving principles:
 * Each course or event has a Producer
@@ -42,13 +42,13 @@ Here's a high-level summary of what happens with a typical course:
 
 h2. Quality and customer feedback
 
-We are pretty systemic when it comes to course quality. For every course, the Producer is expected to measure "Net Promoter Score":http://en.wikipedia.org/wiki/Net_Promoter (NPS) and post it on the Course Log (a shared spreadsheet listing all courses and basic data such as who produced it, how many participants showed up, NPS, etc). 
+We are pretty systemic when it comes to course quality. For every course, the Producer is expected to measure "Net Promoter Score":http://en.wikipedia.org/wiki/Net_Promoter (NPS) and post it on the Course Log (a shared spreadsheet listing all courses and basic data such as who produced it, how many participants showed up, NPS, etc).
 
 The purpose of the course log is to provide internal transparency, so we can learn from each other's successes and failures. It's not mandatory (very few things are), but we encourage each other to fill it in.
 
-We also do a lot of pair-teaching and informal visits to each other's courses. As a result, we gradually improve all the time! Nowadays most courses have NPS >70%, the best ones consistently get 80-90%, sometimes even 100%! Almost none get below 30%. And it shows too - we often hear things like "I signed up for this course because my colleague insisted I should go!" Participants also appreciate the fact that none of our teachers are full-time - they are all consultants doing "real world" stuff as well. 
+We also do a lot of pair-teaching and informal visits to each other's courses. As a result, we gradually improve all the time! Nowadays most courses have NPS >70%, the best ones consistently get 80-90%, sometimes even 100%! Almost none get below 30%. And it shows too - we often hear things like "I signed up for this course because my colleague insisted I should go!" Participants also appreciate the fact that none of our teachers are full-time - they are all consultants doing "real world" stuff as well.
 
-Nevertheless, we do expect new and experimental courses (or less experienced teachers) to start with a lower NPS. And there's no shame in that, as long as you keep experimenting and improving :o)
+Nevertheless, we do expect new and experimental courses (or less experienced teachers) to start with a lower NPS. And there's no shame in that, as long as you keep experimenting and improving :^)
 
 h2. Marketing
 

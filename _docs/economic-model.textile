@@ -8,9 +8,9 @@ h1. Economic Model
 
 The high level economic model is summarized in "How Bestbrains Works":how-bestbrains-works.html. Here are some concrete examples to make it more clear.
 
-h2. Example: One month 
+h2. Example: One month
 
-Suppose Joe is a Bestbrains consultant, and his current client is Innitech. Joe's consulting fee is €100 per hour. And suppose the current Bestbrains fee is 10% + €500/month. 
+Suppose Joe is a Bestbrains consultant, and his current client is Innitech. Joe's consulting fee is €100 per hour. And suppose the current Bestbrains fee is 10% + €500/month.
 
 # During January, Joe does 100 hours of work for Innitech.
 # At the end of January, Joe adds one row to the invoicing spreadsheet (a single shared Google doc for everyone at Bestbrains), noting that Innitech should be invoiced €10,000 for January.
@@ -24,7 +24,7 @@ In addition, once per quarter Bestbrains will send a €1500 invoice to Joe's co
 
 So let's put it all together.
 
-h2. Example: One year 
+h2. Example: One year
 
 Suppose Joe earns the same amount as above, every month for a year. In that case the net result is:
 * Innitech paid €120,000 for Joe's services (€10,000 x 12 months)
@@ -33,14 +33,14 @@ Suppose Joe earns the same amount as above, every month for a year. In that case
 * In addition, Joe paid €6000 to Bestbrains in fixed fees (€500 x 12 months)
 * *Result for the year:*
 ** Innitech: -€120,000
-** Joe: +€102,000 
+** Joe: +€102,000
 ** Bestbrains: +€18,000
 
 h2. Example: hitting the ceiling
 
-Suppose the Bestbrains fee ceiling is €20,000 per year. 
+Suppose the Bestbrains fee ceiling is €20,000 per year.
 
-And suppose Joe gets famous for his specialty skills in cybersecurity, and manages to land a €200/hour gig at Cyberdyne (something about robots, they're very secretive about it)! Joe still works 100 hours per month (reserving the rest of his time for hobby projects and family). 
+And suppose Joe gets famous for his specialty skills in cybersecurity, and manages to land a €200/hour gig at Cyberdyne (something about robots, they're very secretive about it)! Joe still works 100 hours per month (reserving the rest of his time for hobby projects and family).
 
 That means Joe will pull in about €240,000, which means the Bestbrains fee would be €24,000. That's way past the €20,000 ceiling, and we haven't even taken the fixed €500/month into account. The point of having a ceiling is to make sure the cost of being at Bestbrains doesn't get out of hand for the highest paid consultants.
 
@@ -56,7 +56,7 @@ Check "how Bestbrains works":how-bestbrains-works.html if you are curious about 
 
 h2. What about taxes and VAT?
 
-Taxes and VAT? Oh yes, that messes up the clean calculations above... :o)
+Taxes and VAT? Oh yes, that messes up the clean calculations above... :^)
 
 We have experts hired to deal with that, and much of that is country-specific, so we won't bore you with details.
 

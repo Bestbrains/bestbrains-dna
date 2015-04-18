@@ -12,16 +12,16 @@ We don't actively recruit consultants. There's no economic incentive to do so, a
 
 h2. So... how did we get to be more than 30 consultants then?
 
-Like vampires, fresh blood makes us stronger. New people who are smart and passionate will challenge the status quo and inject new ideas! That compensates for the pain of growing. 
+Like vampires, fresh blood makes us stronger. New people who are smart and passionate will challenge the status quo and inject new ideas! That compensates for the pain of growing.
 
 The right balance seems to be about 1-3 new consultants per year, so that's what we aim for. Enough to keep us on our toes without excessive growth pain. Very few people have ever left Bestbrains (we're not just like vampires, we're mafia vampires), so our rate of growth has been pretty linear.
 
-OK, maybe vampire isn't the best metaphor. But you get the idea :o)
+OK, maybe vampire isn't the best metaphor. But you get the idea :^)
 
 h2. Hire awesome people, or don't hire at all
 
 Worth repeating: *hire awesome people, or don't hire at all!*
-That's what "makes our model work":why-this-works.html. 
+That's what "makes our model work":why-this-works.html.
 
 
 h2. Who gets to join
@@ -50,7 +50,7 @@ Again, we are in no hurry to grow. An awesome person is worth waiting for.
 
 h2. What kind of people don't fit at Bestbrains?
 
-People who want stability don't fit at Bestbrains. You won't have stable working hours and a fixed desk. You won't even get a fixed salary - in fact, it's the other way around - you pay a fee (but keep most of what you earn). See the "economic model":economic-model.html. So when you don't have a client, you bleed money every month! On the other hand, when you do have a client, you earn more than what any company would pay you in salary. So it's up to you to buffer cash and manage risk. 
+People who want stability don't fit at Bestbrains. You won't have stable working hours and a fixed desk. You won't even get a fixed salary - in fact, it's the other way around - you pay a fee (but keep most of what you earn). See the "economic model":economic-model.html. So when you don't have a client, you bleed money every month! On the other hand, when you do have a client, you earn more than what any company would pay you in salary. So it's up to you to buffer cash and manage risk.
 
 This kind of model obviously doesn't fit everyone.
 
@@ -60,7 +60,7 @@ Most people who end up at Bestbrains were previously independent consultants (or
 
 * *Self-confident* - they know that they are highly skilled and in high demand.
 * *Adventurous* - a few months without an assignment isn't the end of the world, it's an opportunity to play around and learn new stuff!
-* *Social* - they like to maintain a strong network and collaborate with people. Some of us are introverts, but still kind of social :o)
+* *Social* - they like to maintain a strong network and collaborate with people. Some of us are introverts, but still kind of social :^)
 * *Curious* - want to learn new things, every day. Love geeking out on new technologies, processes, etc.
 * *Generous* - like to share what they learn, not primarily for profit but because it's fun and rewarding in itself.
 * *Responsible* - they're used to taking responsibility for their own goals and actions, and don't wait for others to tell them what to do or solve their problems.
@@ -69,9 +69,9 @@ Of course, not everyone at Bestbrains has all these traits. But this is typicall
 
 h2. What's the recruitment process?
 
-It's quite simple: 
+It's quite simple:
 # Mr X (a candidate) approaches Mrs Y (a Bestbrainer) and asks to join Bestbrains.
-# Y does what it takes to evaluate X. Start by finding out which Bestbrainers have worked with Mr X before and that they think of him. Then organize interviews and tests and whatever else she deems necessary. She might invite X to join the next "hack summit":hack-summit.html. 
+# Y does what it takes to evaluate X. Start by finding out which Bestbrainers have worked with Mr X before and that they think of him. Then organize interviews and tests and whatever else she deems necessary. She might invite X to join the next "hack summit":hack-summit.html.
 # If Y thinks X is suitable, she emails all Bestbrainers: "I think X should be a Bestbrainer, because [reasons].  Anyone against?".
 # If no response comes within a few days, the decision is done! Otherwise, if people have doubts or questions, keep repeating points 2-3 until the candidate is accepted or rejected.
 
@@ -83,6 +83,6 @@ h2. How does on-boarding work?
 
 Welcome! You'll need to sign our "team contract":team-contract-en.html, and create your own personal company (if you don't already have one). Formally you'll be employed by your company, not Bestbrains. We'll help you get started.
 
-Congrats, you are now your own manager! Be nice. 
+Congrats, you are now your own manager! Be nice.
 
 We will also go for dinner at a nice restaurant, setup your email account and all that jazz, like most other companies. And we'll proudly display you on our "site":http://www.bestbrains.dk/everyone/ of course!
