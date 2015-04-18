@@ -4,6 +4,9 @@ prev_section: conflict-handling.html
 next_section: building-competence.html
 ---
 
+bq(bb-proposal). Very close to Crisp? (read the Swedish one). Or close to what we had? (Danish one)
+_(bb-who)Morten_
+
 h1. Team contract
 
 This is the contract you sign when you join Crisp.
