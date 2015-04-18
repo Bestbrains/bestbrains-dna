@@ -59,8 +59,7 @@ For more see "Recruiting":recruiting.html.
 
 h2. How do we run the company?
 
-bq(bb-proposal). I propose that we use our advice process for mostly everything, and reserve the consensus process for really big things like changing the "constitution", adjusting our values etc. 
-Although: when we are together anyway, we could experiment with using the consensus process - I think it could work well for people in a room, whereas I think that our advice process is superior in that many decisions can be taken without getting everyone together.
+bq(bb-proposal). This page talks more about consensus, and less about the advice process. I propose that we change the lingo here to reflect that, since I think that the advice process should be our "most visible" decision process. I think the consensus thing with hand signals could work well for us when we are assembled, though, so I'd like us to test it out more.
 _(bb-who)Morten_
 
 * *Lean & Agile* - our approach is based on lean and "agile":http://agilemanifesto.org principles.
