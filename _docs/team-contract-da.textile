@@ -36,7 +36,7 @@ BestBrains stiller mobiltelefon, computer og andet nødvendigt udstyr til rådig
 
 h2. Underskrift
 
-h3. For Bestbrains
+h3. For {{ site.company_name }}
 
 DIREKTØRNAVN
 Direktør, BestBrains A/S

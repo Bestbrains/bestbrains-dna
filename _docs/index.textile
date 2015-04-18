@@ -44,7 +44,7 @@ h2. Core structure and practices
 * "Bun protocol":bun-protocol.html - how do we handle customer enquiries and route to the right consultant?
 * "Dashboard":dashboard.html - how do we see the big picture?
 * "Office team":office-team.html - how do we handle admin and day-to-day operations?
-* "Board of directors":board.html - Swedish law requires that we have a BoD. So how does the BoD at Bestbrains work?
+* "Board of directors":board.html - Swedish law requires that we have a BoD. So how does the BoD at {{ site.company_name }} work?
 * "Our business":our-business.html - what type of work we do
 * "Visions":visions.html - How to you get a bunch of autonomous consultants to agree on a vision? Answer: have several :^)
 * "Sales":sales.html - how do we actually sell consultants?
@@ -58,7 +58,7 @@ h2. Supporting practices
 * "Hand signals":hand-signals.html - how do have discussions in larger groups?
 * "Industries that we avoid":industries-that-we-avoid.html - why we avoid certain industries
 * %(bb-pending)"Hack summit":hack-summit.html - how we geek out together%
-* "Brainlets":brainlets.html - how do bottom-up initiatives get funded?
+* "{{ site.company_cells }}":brainlets.html - how do bottom-up initiatives get funded?
 * "Conflict handling":conflict-handling.html - How do we make sure conflicts are constructive rather than destructive?
 * "Contracts":contracts.html - our internal contracts for {{ site.company_name }} membership, ownership, etc.
 * "Building competence":building-competence.html - how we learn from each other and improve

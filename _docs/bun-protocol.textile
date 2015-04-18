@@ -90,7 +90,7 @@ h3. What if it is a business-critical request? Shouldn't some central authority 
 
 The closest thing we have to a central authority is the "board":board.html, and our business developer. If one of them received the request then, well, they already have it.
 
-What if you received the request? Well, do you think it is business critical and should be handled by the business developer? In that case get in touch and ask her to take it from you. If you don't know what to do, broadcast it to all Crispers (or even external partners that have bought into this protocol) and ask who wants to take it.
+What if you received the request? Well, do you think it is business critical and should be handled by the business developer? In that case get in touch and ask her to take it from you. If you don't know what to do, broadcast it to all {{ site.company_members }} (or even external partners that have bought into this protocol) and ask who wants to take it.
 
 But don't forget - the bun is still yours until someone else explicitly takes it from you!
 

@@ -12,11 +12,11 @@ h1. Board of directors
 
 Being a Danish company, we are required to have a board of directors. In most companies, the board is appointed by the owners to represent them so that the management group, headed by the CEO, runs the company according to the directives from the owners and the board.
 
-At Bestbrains, this works a little differently. First of all, "we invite all Bestbrainers to become owners after 2 years":ownership-model.html, and second, we hold a yearly election of the board members where all Crispers (owners or not) have the right to vote. Since "we have gotten rid of the CEO role":decisions.html, and since we have very autonomous consultants, there is really quite little to manage.
+At {{ site.company_name }}, this works a little differently. First of all, "we invite all {{ site.company_members }} to become owners after 2 years":ownership-model.html, and second, we hold a yearly election of the board members where all {{ site.company_members }} (owners or not) have the right to vote. Since "we have gotten rid of the CEO role":decisions.html, and since we have very autonomous consultants, there is really quite little to manage.
 
 h2. What does the board do?
 
-The board have monthly board meetings. The most important responsibilities are to make sure the financial aspect of Bestbrains is OK and that the Bestbrainers and the "office team":office-team.html are happy. The meetings are open for any Bestbrainers to attend if they wish.
+The board have monthly board meetings. The most important responsibilities are to make sure the financial aspect of {{ site.company_name }} is OK and that the {{ site.company_members }} and the "office team":office-team.html are happy. The meetings are open for any {{ site.company_members }} to attend if they wish.
 
 Managing the finances involves keeping an eye on the liquidity to be able to do day-to-day business and to aim for a zero result at the end of the fiscal year. See "Economic Model":economic-model.html for details.
 
@@ -41,7 +41,7 @@ This is the template for our monthly board meetings.
 
 h2. How do we elect the board?
 
-We elect the board annually at the "Bestbrains Unconference":unconference.html in the fall. Our board consists of four people
+We elect the board annually at the "{{ site.company_name }} Unconference":unconference.html in the fall. Our board consists of four people
 # Chairman
 # Board member 1
 # Board member 2
@@ -49,9 +49,9 @@ We elect the board annually at the "Bestbrains Unconference":unconference.html i
 
 h3. The current election process
 
-Before the election starts, Bestbrainers who volunteer to run for the board of directors put their name up for consideration on a dedicated wall somewhere. Often, there is some flattering going on to encourage people to volunteer. We usually end up with two or three candidates for the Chairman position, and some additional Crispers volunteering to make up the rest of the board.
+Before the election starts, {{ site.company_members }} who volunteer to run for the board of directors put their name up for consideration on a dedicated wall somewhere. Often, there is some flattering going on to encourage people to volunteer. We usually end up with two or three candidates for the Chairman position, and some additional {{ site.company_members }} volunteering to make up the rest of the board.
 
-When it is time for the election, all Bestbrainers gather in a big circle. One of the Unconference facilitators manages the election process, where we elect one member at a time, in the order listed above, using closed voting and relative majority.
+When it is time for the election, all {{ site.company_members }} gather in a big circle. One of the Unconference facilitators manages the election process, where we elect one member at a time, in the order listed above, using closed voting and relative majority.
 
 For each position on the board:
 # Any Bestbrainer may nominate any Bestbrainer.

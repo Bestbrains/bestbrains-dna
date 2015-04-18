@@ -39,12 +39,12 @@ h1. Page by page
 ** "Industries that we avoid":industries-that-we-avoid.html - ok?
 ** Hack summmit - start doing that?
 
-* "What is Bestbrains":what-is-bestbrains.html
-** A3 Bestbrains is a home - our own
+* "What is {{ site.company_name }}":what-is-bestbrains.html
+** A3 {{ site.company_name }} is a home - our own
 ** Values - our own
 
-* "How Bestbrains works":how-bestbrains-works.html
-** A3 How Bestbrains works - our own
+* "How {{ site.company_name }} works":how-bestbrains-works.html
+** A3 How {{ site.company_name }} works - our own
 ** Fees:
 *** Fixed (3000 DKK?)
 *** Variable (Start at 20% and push down quickly?)
@@ -87,3 +87,24 @@ h1. Page by page
 * "Visions":visions.html
 ** Can we agree to have "opt in" visions too?
 ** create our own
+
+* "Sales":sales.html
+** Do we leave the sections about the business developer role in?
+
+* "Unconference:"unconference.html
+** Describe our own? Start doing some of this?
+
+* "Email conventions":email-conventions.html
+** BOLLE renaming?
+
+* "Industries that we avoid":industries-that-we-avoid.html
+** Samme liste? Ligegyldigt?
+
+* "Hack Summit":hack-summit.html
+** Describe our own? Start doing some of this?
+
+* "Brainlets":brainlets.html
+** Read it carefully and agree on the details. Do we also want to list them carefully and let them have their own economy? Can there be a {{ site.company_cell }} without economy?
+
+* "Conflict handling":conflict-handling.html
+** Sign?

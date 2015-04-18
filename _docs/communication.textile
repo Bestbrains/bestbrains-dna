@@ -34,4 +34,4 @@ How we *communicate with the outside world*:
 * A mailing list for our customers and course participants, we send information about upcoming courses about once or twice per quarter.
 * Twitter - our twitter handle is "@crisp_":https://twitter.com/crisp_/
 * "Facebook":https://www.facebook.com/crisp.se
-* ... but the biggest channel of communication is of course the personal and informal channels - Crispers tweeting, blogging, and talking to friends and customers. Together we have a huge network!
+* ... but the biggest channel of communication is of course the personal and informal channels - {{ site.company_members }} tweeting, blogging, and talking to friends and customers. Together we have a huge network!
