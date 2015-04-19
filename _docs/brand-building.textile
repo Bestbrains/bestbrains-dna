@@ -34,14 +34,14 @@ Visibility happens as a result of two things:
 Again, because our model attracts the kind of people that like to learn and spread knowledge, all we have to do is make sure nothing gets in the way. That way, a bunch of cool stuff happens automatically, such as:
 
 * "Blog articles":http://blog.crisp.se/
-* -(bb-pending)"YouTube channel":https://www.youtube.com/user/crispagileacademy-
-* -(bb-pending)"Books":https://www.crisp.se/bocker-och-produkter-
+* %(bb-pending)-"YouTube channel":https://www.youtube.com/user/crispagileacademy-%
+* %(bb-pending)-"Books":https://www.crisp.se/bocker-och-produkter-%
 * "Public courses":https://academy.bestbrains.dk and evening seminars
 * %(bb-pending)"Talks and keynotes":http://blog.crisp.se/tag/slides at public conferences%
 * Partnerships with well-known people like "Jeff Sutherland":http://en.wikipedia.org/wiki/Jeff_Sutherland, "Mary Poppendieck":http://www.poppendieck.com/people.htm, "Jeff Patton":http://www.agileproductdesign.com, and many more.
-* -(bb-pending)Physical products such as "Planning Poker":https://www.crisp.se/bocker-och-produkter/planning-poker and "Jimmy Cards":https://www.crisp.se/bocker-och-produkter/jimmy-cards-
-* -(bb-pending)"Open Source Software":https://github.com/crispab-
-* %(bb-pending)... and, of course this "dna.crisp.se":http://dna.crisp.se site!%
+* %(bb-pending)-Physical products such as "Planning Poker":https://www.crisp.se/bocker-och-produkter/planning-poker and "Jimmy  Cards":https://www.crisp.se/bocker-och-produkter/jimmy-cards-%
+* %(bb-pending)-"Open Source Software":https://github.com/crispab-%
+* %(bb-pending)-... and, of course this "dna.crisp.se":http://dna.crisp.se site!-%
 
 h2. It's all about co-branding
 
