@@ -104,6 +104,7 @@ h1. Page by page
 ** Describe our own? Start doing some of this?
 
 * "Brainlets":brainlets.html
+** Braincell? Brainlet?
 ** Read it carefully and agree on the details. Do we also want to list them carefully and let them have their own economy? Can there be a {{ site.company_cell }} without economy?
 
 * "Conflict handling":conflict-handling.html
@@ -111,3 +112,6 @@ h1. Page by page
 
 * "Contracts":contracts.html
 ** Som Crisp? Eller mere som vi har haft det?
+
+* "Courses and Event production":courses-and-event-production.html
+** We don't really use the Producer concept, and Rikke (together with the rest of the "Academy" {{ site.company_cell }} plays a bigger part than the "office team" does for Crisp). I propose that the Academy {{ site.company_cell }} what to pick up from the Crisp model, and what to do "our way", and set the course. The financial link to the rest of the company should probably be decided soon, though.
