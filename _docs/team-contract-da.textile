@@ -4,7 +4,7 @@ title: Team contract, Swedish original
 bq(bb-proposal). This is a changed contract taken from the proposal to a owners contract made by Sonny in 2014
 _(bb-who)Bo_
 
-h1. Ansættelseskontrakt
+h1. Samarbejdsaftale
 
 h2. Gælder for
 
@@ -14,7 +14,7 @@ NAVN, ADR
 
 h2. Vilkår
 
-Hermed ansættes FORNAVN i BestBrains fra DATO.
+FORNAVN indgår i et tæt samarbejde med BestBrains fra DATO.
 
 Hvis det efter 2 år vurderes at samarbejdet skal fortsætte tilbydes FORNAVN medejerskab af BestBrains A/S.
 
