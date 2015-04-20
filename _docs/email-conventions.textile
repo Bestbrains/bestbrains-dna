@@ -12,7 +12,7 @@ Answer: a single mailing list (the "team list"), plus a few simple subject line 
 
 By default, reading team mail is optional. The only "must-reads" are the ones with OBS or SU in the subject.
 
-bq. We've had this convention for many years and it works great, because it has an subtle but important impact on how we communicate. Normally, a mailing list forces the _receiver_ to decide what's important to read or not. Now we shift that responsibility to the _sender_. Think about it: every email on the team list involves _one sender_ and _many receivers_, right? So we save a lot of time if we burden the sender rather than the receivers.
+bq. Crisp have had this convention for many years and it works great, because it has an subtle but important impact on how we communicate. Normally, a mailing list forces the _receiver_ to decide what's important to read or not. Now we shift that responsibility to the _sender_. Think about it: every email on the team list involves _one sender_ and _many receivers_, right? So we save a lot of time if we burden the sender rather than the receivers.
 
 h2. OBS = "Read this!"
 
@@ -22,7 +22,7 @@ So OBS is basically an announcement. Everyone should read it, but no response is
 
 Examples:
 * OBS: Date for next conference
-* OBS: New Crisplet started
+* OBS: New {{ site.company_cell }} started
 
 h2. SU = "Read and respond!"
 
@@ -57,10 +57,10 @@ h2. Email filtering
 
 The subject line conventions above make it really easy to create email filters to separate out the unimportant stuff. Gmail example:
 
-bc. to:team@crisp.se -firstname.lastname@crisp.se
+bc. to:alle@bestbrains.dk -firstname.lastname@bestbrains.dk
 subject:-SU -OBS -BOLLE
 
-The filter will identify any email that is sent to the team list, and not directly to me, and doesn't have OBS/SU/BOLLE in the Subject. For these emails, configure Gmail to skip the Inbox and apply the label "crisp". That way you could respond quickly to OBS/SU/BOLLE and then cherry-pick among the other emails at your leisure.
+The filter will identify any email that is sent to the team list, and not directly to me, and doesn't have OBS/SU/BOLLE in the Subject. For these emails, configure Gmail to skip the Inbox and apply the label "{{ site.company_name }}". That way you could respond quickly to OBS/SU/BOLLE and then cherry-pick among the other emails at your leisure.
 
 Some do this, while others skip the filter and read all team email. It's up to each individual. The important thing is that everyone knows that you can't expect everyone to read your email unless you write OBS or SU.
 
@@ -76,7 +76,7 @@ Better to meet and talk, or call each other, or at the very least have a direct 
 
 So if an email conversation starts turning ugly, the involved people will usually notice and take it off the list.
 
-bq. Once upon a time we had a big problem with sour discussions polluting the email list. For example a heated argument between X and Y. Interestingly enough, X and Y were usually fine with it (they were, in their minds, having a healthy debate) - but _other Crispers_ found it depressing to see all these long heated debates going on. We brought it up several times at conferences, and finally we decided to add a new email convention: STOP. Anyone who feels that an email thread is getting ugly can respond with the single word: STOP. After that, the thread is considered dead - no one is allowed to send anything on that thread. It's up to the interested parties to contact each other directly. We were pretty proud of this simple rule. The interesting thing, however, is that _nobody ever used it_! (well OK, maybe once per year or so). Just having the convention was enough to remind people to think twice before sending an email that may come across as nasty. So the problem kind of solved itself.
+bq. Once upon a time Crisp had a big problem with sour discussions polluting the email list. For example a heated argument between X and Y. Interestingly enough, X and Y were usually fine with it (they were, in their minds, having a healthy debate) - but _other {{ site.company_members }}_ found it depressing to see all these long heated debates going on. We brought it up several times at conferences, and finally we decided to add a new email convention: STOP. Anyone who feels that an email thread is getting ugly can respond with the single word: STOP. After that, the thread is considered dead - no one is allowed to send anything on that thread. It's up to the interested parties to contact each other directly. We were pretty proud of this simple rule. The interesting thing, however, is that _nobody ever used it_! (well OK, maybe once per year or so). Just having the convention was enough to remind people to think twice before sending an email that may come across as nasty. So the problem kind of solved itself.
 
 We don't mind conflict and debate. It's just that email (especially the team list) is a lousy forum for it.
 
@@ -84,11 +84,11 @@ h2. Other informal email conventions
 
 These additional subject prefixes are used from time to time. Not because we decided to, but because people simply started using them and they've stuck around.
 
-* *SKRYT* (boast): "I'm proud of something and want to boast a bit!". If you're proud of something, why not sing it out loud and get some pats on the back!
+* *PRAL* (boast): "I'm proud of something and want to boast a bit!". If you're proud of something, why not sing it out loud and get some pats on the back!
 * *OFFTOPIC*: "This doesn't really have anything to do with Crisp, but what the heck..."
-* *KORRLÄS* (proofread): "Please proofread my article & help me improve it"
-* *DAGBOK* (diary): "Here's what's going on in my life right now". Always interesting to read!
-* *HJÄLP* (help): "I need help!"
+* *KORREKTUR* (proofread): "Please proofread my article & help me improve it"
+* *DAGBOG* (diary): "Here's what's going on in my life right now". Always interesting to read!
+* *HJÆLP* (help): "I need help!"
 
 
 

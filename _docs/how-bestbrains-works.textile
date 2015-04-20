@@ -4,9 +4,9 @@ prev_section: what-is-bestbrains.html
 next_section: why-this-works.html
 ---
 
-h1. How Bestbrains works
+h1. How {{ site.company_name }} works
 
-Our second A3 is called "Bestbrains strategy" but it's really more about how we operate:
+Our second A3 is called "{{ site.company_name }} strategy" but it's really more about how we operate:
 
 !../assets/CrispStrategyA3-sv.jpg(Crisp Strategy A3)!
 
@@ -21,11 +21,14 @@ We measure:
 
 h2. How do we finance the home?
 
-To cover our costs, every Bestbrainer pays a fixed fee per month + % fee of their revenue. The fixed fee is usually around SEK 3500-5000, and the variable fee is usually around 8-12%. The fee is intended only to cover Bestbrains's costs, so we adjust it every quarter based on how much money we have in our coffers. If we have less than our desired liquidity buffer then we raise the fees, and vice versa. 
+bq(bb-proposal). Fixed fee is new for us. I propose DKK 3000, 20% fee until we know what suits our expandature. (Linked closely to payment for internal services, of course). And when money piles up, we quickly adjust the % fee down (for the entire year). Ceiling? 250 kDKK?
+_(bb-who)Morten_
 
-bq. *Why a fixed + variable fee?* If we only had a fixed fee, consultants on the bench would quickly run out of money. And if we had only a variable fee, we might have trouble covering our fixed costs if many consultants are on the bench. With a fixed + variable fee, we get a nice balance that matches the fact that our costs are also fixed + variable. It is also typical Scandiavian to pick a model that is "lagom":https://en.wikipedia.org/wiki/Lagom - as in, nobody is totally happy and nobody is totally disappointed ;-)
+To cover our costs, every Bestbrainer pays a fixed fee per month + % fee of their revenue. The fixed fee is usually around SEK 3500-5000, and the variable fee is usually around 8-12%. The fee is intended only to cover {{ site.company_name }}'s costs, so we adjust it every quarter based on how much money we have in our coffers. If we have less than our desired liquidity buffer then we raise the fees, and vice versa.
 
-We also have a ceiling, to limit the total fee a consultant pays to Bestbrains per year (variable + fixed). Some consultants earn a lot more than others and we don't want them to leave just because Bestbrains gets too expensive. The ceiling is usually around kDKK 250-300 per year. 
+bq. *Why a fixed + variable fee?* If we only had a fixed fee, consultants on the bench would quickly run out of money. And if we had only a variable fee, we might have trouble covering our fixed costs if many consultants are on the bench. With a fixed + variable fee, we get a nice balance that matches the fact that our costs are also fixed + variable. It is also typical Scandiavian to pick a model that is "tilpas":https://en.wikipedia.org/wiki/Lagom - as in, nobody is totally happy and nobody is totally disappointed ;-)
+
+We also have a ceiling, to limit the total fee a consultant pays to {{ site.company_name }} per year (variable + fixed). Some consultants earn a lot more than others and we don't want them to leave just because {{ site.company_name }} gets too expensive. The ceiling is usually around kDKK 250-300 per year.
 
 See "Economic model":economic-model.html for concrete examples.
 
@@ -37,15 +40,15 @@ This picture sums it up:
 
 The guiding principles are:
 
-* *Naked in, Naked out* - you don't need to put in serious cash to join Bestbrains, and there's nothing to cash out when you leave.
+* *Naked in, Naked out* - you don't need to put in serious cash to join {{ site.company_name }}, and there's nothing to cash out when you leave.
 * *No gold on the table* - we don't try to build financial value in the company.
 * *No pot of gold at that end* - there's no financial incentive to sell the company.
 * *A gold-strewn road* - you keep most of what you earn, as you earn it.
 
-bq. **Why don't we try to build financial value?** If Bestbrains has a big pile of money, that creates a financial incentive to own the company, and increases the risk of conflict as the "value" of the company goes up and down. If we keep the company lean, with only a small liquidity buffer, then we don't need to argue about who owns what.
+bq. **Why don't we try to build financial value?** If {{ site.company_name }} has a big pile of money, that creates a financial incentive to own the company, and increases the risk of conflict as the "value" of the company goes up and down. If we keep the company lean, with only a small liquidity buffer, then we don't need to argue about who owns what.
 
 
-See "Economic model":economic-model.html and "Ownership model":ownership-model.html for more details on how money flows through the system. 
+See "Economic model":economic-model.html and "Ownership model":ownership-model.html for more details on how money flows through the system.
 
 h2. How many do we want to be?
 
@@ -55,6 +58,9 @@ h2. How many do we want to be?
 For more see "Recruiting":recruiting.html.
 
 h2. How do we run the company?
+
+bq(bb-proposal). This page talks more about consensus, and less about the advice process. I propose that we change the lingo here to reflect that, since I think that the advice process should be our "most visible" decision process. I think the consensus thing with hand signals could work well for us when we are assembled, though, so I'd like us to test it out more.
+_(bb-who)Morten_
 
 * *Lean & Agile* - our approach is based on lean and "agile":http://agilemanifesto.org principles.
 * *Meritocracy & Consensus* - we don't have titles, managers, or reporting structures. Instead we are a "meritocracy":http://en.wikipedia.org/wiki/Meritocracy, which basically means your power to influence stuff is based on your competence and engagement. Decisions are made mostly using consensus ("here's how":decisions.html).
@@ -66,12 +72,12 @@ For more info, see "How we make decisions":decisions.html.
 h2. How do we differentiate?
 
 How are we different from a typical consulting company?
-* Bestbrains is not trying to earn money from its consultants
+* {{ site.company_name }} is not trying to earn money from its consultants
 * 100% freedom for all consultants (as long as they don't hurt the home)
-* Bestbrains has no other goal than to provide a happy home
+* {{ site.company_name }} has no other goal than to provide a happy home
 
 How are we different from a typical network of independents?
-* We are dedicated to Bestbrains - that is, consultants are expected to do all their work and invoicing through Crisp.
+* We are dedicated to {{ site.company_name }} - that is, consultants are expected to do all their work and invoicing through Crisp.
 
 h2. Why does this strategy work?
 

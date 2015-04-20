@@ -7,8 +7,8 @@ next_section: what-is-bestbrains.html
 
 h1. Academy
 
-h2. State of today	
-	
+h2. State of today
+
 The BestBrains Academy is in the starting face - or maybe more correct - in a transition face, where it now is handled by one decicated person.
 The academy responsible person is part of the office staff.
 
@@ -27,7 +27,91 @@ The tasks which is handled by consultants should have some kind of salary
 * Board members
 * The employees responsible person
 
-* Mayby
+* Maybe
 ** Planning together with the office staff, e.g. Cafe meetings etc.
 ** Accounting - revision and accept of payments etc.
 
+
+h1. Page by page
+
+* "Home":index.html
+** "Happiness Index":happiness-index.html - do we start running one?
+** "Industries that we avoid":industries-that-we-avoid.html - ok?
+** Hack summmit - start doing that?
+
+* "What is {{ site.company_name }}":what-is-bestbrains.html
+** A3 {{ site.company_name }} is a home - our own
+** Values - our own
+
+* "How {{ site.company_name }} works":how-bestbrains-works.html
+** A3 How {{ site.company_name }} works - our own
+** Fees:
+*** Fixed (3000 DKK?)
+*** Variable (Start at 20% and push down quickly?)
+*** Ceiling (250 kDKK)
+** Decisions are mast mostly with - TRUST (advice) instead of consensus?
+
+* "Economic model":conomic-model.html
+** Risk pooling: brainlet?
+** Internal salary (fixed rate?) for:
+*** Agreed projects (e.g., website)?
+*** Koordinationsudvalget?
+*** Økonomiudvalget?
+
+* "Decisions":decisions.html
+** Make advice process more prominent?
+
+* "Communication":communication.html
+** Revise with our own meeting scedule?
+** Add:
+*** unconference?
+*** Pulse meetings?
+*** Signup?
+
+* "Bun protocol":bun-protocol.html
+** What's in a name? Brød, Kage, Bolle, Spandauer, vælg-selv-bagværk, kringle, blomst, ...
+
+* "Dashboard":dashboard.html
+** make one?
+
+* "Office team":office-team.html
+** Academy part of office team?
+** Elect a line-manager?
+
+* "Board":board.html
+** Do we keep the board silent, and use the koordinationsudvalg for all that?
+
+* "Our business":our-business.html
+** Keep the animals?
+
+* "Visions":visions.html
+** Can we agree to have "opt in" visions too?
+** create our own
+
+* "Sales":sales.html
+** Do we leave the sections about the business developer role in?
+
+* "Unconference:"unconference.html
+** Describe our own? Start doing some of this?
+
+* "Email conventions":email-conventions.html
+** BOLLE renaming?
+
+* "Industries that we avoid":industries-that-we-avoid.html
+** Samme liste? Ligegyldigt?
+
+* "Hack Summit":hack-summit.html
+** Describe our own? Start doing some of this?
+
+* "Brainlets":brainlets.html
+** Braincell? Brainlet?
+** Read it carefully and agree on the details. Do we also want to list them carefully and let them have their own economy? Can there be a {{ site.company_cell }} without economy?
+
+* "Conflict handling":conflict-handling.html
+** Sign?
+
+* "Contracts":contracts.html
+** Som Crisp? Eller mere som vi har haft det?
+
+* "Courses and Event production":courses-and-event-production.html
+** We don't really use the Producer concept, and Rikke (together with the rest of the "Academy" {{ site.company_cell }} plays a bigger part than the "office team" does for Crisp). I propose that the Academy {{ site.company_cell }} what to pick up from the Crisp model, and what to do "our way", and set the course. The financial link to the rest of the company should probably be decided soon, though.

@@ -4,7 +4,7 @@ prev_section: index.html
 next_section: how-bestbrains-works.html
 ---
 
-h1. What is Bestbrains and why?
+h1. What is {{ site.company_name }} and why?
 
 bq(bb-proposal). I propose that we create our own version of the A3, starting with a copy and then do incremental changes.
 The same for the values; they could be ours, but we might want to change some to use our own terms.
@@ -16,20 +16,24 @@ Our purpose is summarized in this A3. We refer to this as "our home" or "our hou
 
 It hangs on the wall in our office, and we bring it to our conferences so it can be easily updated (it's written in pencil...). Here's what it says:
 
-*Bestbrains is a home for IT consultants who value:*
-    
+*{{ site.company_name }} is a home for IT consultants who value:*
+
 * *Community* - We like to hang out with people who share our values
 * *Freedom* - We want to control our own time
 * *Competence* - We want to continuously learn
 * *Good citizenship* - Heart over wallet (money isn't the main thing in life)
 * *Professionalism* - We genuinely care about solving our customers problems
-    
+
+bq(bb-proposal). A new point:
+* *Redundant* - We try to make ourselves redundant. The customer should only need us for a short period
+_(bb-who)Bo_
+
 We believe these values lead to personal happiness as well as business success.
 
-Basically, we're trying to find the magic balance between being an independent consultant (full freedom, no support), and being an employee (little freedom, lots of support). 
+Basically, we're trying to find the magic balance between being an independent consultant (full freedom, no support), and being an employee (little freedom, lots of support).
 
-In geek-terms, Bestbrains is a "runtime environment for consultants" :o)
+In geek-terms, {{ site.company_name }} is a "runtime environment for consultants" :^)
 
 Here's the "story of how Crisp came up with this A3":http://blog.crisp.se/2010/05/08/henrikkniberg/1273272420000.
 
-bq. If you "clone the Bestbrains model":how-to-copy.html, you don't necessarily have to have the same values. Use your values! What's important to you and your buddies? However, our model is very much derived from our core values. So the closer your values are to ours, the better our model will fit your context.
+bq. If you "clone the {{ site.company_name }} model":how-to-copy.html, you don't necessarily have to have the same values. Use your values! What's important to you and your buddies? However, our model is very much derived from our core values. So the closer your values are to ours, the better our model will fit your context.

@@ -4,13 +4,17 @@ prev_section: crisplets.html
 next_section: contracts.html
 ---
 
+bq(bb-proposal). Is this better than our own description? Add our slide?
+Do we want to sign it? Seems unnecessary to me...
+_(bb-who)Morten_
+
 h1. Conflict handling
 
 Conflict is inevitable in any organization because, well, Humans :)
 
-The way we deal with conflict is really important - some conflicts are healthy and productive and drive improvement - other conflicts are ugly and political and suck the soul out of the culture. We obviously want more of the former and less of the latter! 
+The way we deal with conflict is really important - some conflicts are healthy and productive and drive improvement - other conflicts are ugly and political and suck the soul out of the culture. We obviously want more of the former and less of the latter!
 
-Conflict handling gets a bit tricky with organizations like Crisp, with everything bottom-up and no managers. We've done pretty OK so far, but we want to get better.
+Conflict handling gets a bit tricky with organizations like {{ site.company_name }}, with everything bottom-up and no managers. We've done pretty OK so far, but we want to get better.
 
 Inspired by the book "Reinventing Organizations":http://www.reinventingorganizations.com, we've learned that self-organization at scale really needs an explicit conflict handling strategy, a simple process that everyone needs to be bought into. So that's what we're experimenting with now.
 
@@ -26,7 +30,7 @@ _... if the conflict didn't get solved:_
 
 _... if the conflict didn't get solved:_
 
-3. Moose-head meeting at Crisp ASAP with the involved parties.
+3. Moose-head meeting at {{ site.company_name }} ASAP with the involved parties.
 
 h2. Gravel? Moose head? Huh?
 
@@ -34,16 +38,16 @@ Glad you asked!
 
 Gravel is a metaphor for small annoying problems that, if left unfixed, will get worse over time. For example a piece of gravel in your shoe. Best strategy is to stop and remove it as soon as you notice it.
 
-Moose head is a metaphor for a big ugly stinking thing sitting on the table. It brings the mood down, but it's been around for so long that few people notice it any more, and those who do don't dare mention it or do anything about it. 
+Moose head is a metaphor for a big ugly stinking thing sitting on the table. It brings the mood down, but it's been around for so long that few people notice it any more, and those who do don't dare mention it or do anything about it.
 
 The purpose of our conflict handling process is to catch Gravel before it becomes a Moose head!
 
 h2. How is this intended to be used?
 
-The policy lives in a google doc and has been "signed" by about 80% of the Crispers so far (as of Jan 2015) 
+The policy lives in a google doc and has been agreed by all {{ site.company_members }} in 2014.
 
-Signing the doc is a personal commitment - "I intend to follow this process". It also acts as a "permission" to hold each other accountable for following the process. That way we can help remind each other - "Hey Joe, I hear you complaining about Lisa. So are you going to bring it up with Lisa, or let it go?" 
+-Signing the doc is a personal commitment - "I intend to follow this process". It also acts as a "permission" to hold each other accountable for following the process. That way we can help remind each other - "Hey Joe, I hear you complaining about Lisa. So are you going to bring it up with Lisa, or let it go?"-
 
-We don't force anyone to sign, but part of the experiment is to see how many will :o)
+-We don't force anyone to sign, but part of the experiment is to see how many will :^)-
 
 

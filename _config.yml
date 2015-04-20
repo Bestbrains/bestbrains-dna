@@ -8,3 +8,7 @@ collections:
   docs:
     output: true
 company_name: "Bestbrains"
+company_member: "Bestbrainer"
+company_members: "Bestbrainers"
+company_cell: "Braincell"
+company_cells: "Braincells"
