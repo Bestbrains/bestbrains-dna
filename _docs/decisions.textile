@@ -6,35 +6,52 @@ next_section: recruiting.html
 
 h1. How we make decisions
 
-How do we make decisions in a decentralized organized with no managers?
+How do we make decisions in a decentralized organized with no managers? 
+By decentralizing the decision-making itself. The guiding principle is that decisions should be made by the person who feel most engaged in the decision, but with respect for the points of view of people affected by the decision.
+
+We call this the _Consultation Process_ ("Rådføringsprocessen" in Danish).
 
 Note – for allocation of consultants to client engagements we have a specific protocol for that – the "bun protocol":bun-protocol.html. Similar for recruitment decisions.
 
-h2. Why don’t we have a well defined decision-making process?
+h2. How does the Consultation Process work?
 
-We make lots of decisions all the time. Which type of coffee machine to buy? Should our internal fees be raised? Where & when is our next Crisp unconference? Which partners should we invite?
+The proces is quite simple:
 
-Different types of decisions need a different process. It would be crazy to involve the whole team in decisions like which type of whiteboard pens to buy. And it would be crazy to NOT involve the whole team if we needed to move our office to a new location.
+* Any one can make any decision
+* When making decisions one must seek the counsel of people affected by the decision
 
-So it’s not a good idea to have one single well-defined decision process for everything. And it’s not a good idea to try to list all potential decision types and create a well-defined process for each type, the list would be too long and complex, and there would be too many gray zones.
+The counsel can be sought bilaterally or in groups, and usually the decision proposal is adjusted based on the counsel of the peers. Sometimes the counsel sessions are repeated multiple times before a decision is made. But the decision is always in the hands of the person driving the decision-making. 
 
-h2. Well, how do we make decisions then?
+This also means that the counsel of the peers does not have to be heeded if the person driving the decision-making is not convinced and believe strongly in his or her own proposal.
 
-You don’t need a well-defined decision process in order to make decisions. If that was the case, the world would stand still :)
+h2. Why don’t we have a centalized decision-making process?
 
-Instead, we follow these principles/guidelines:
+It is important for us that people are free to use their autonomy and not feel hindered by a cumbersome decision-making structure. But it is also important that people do not feel that decisions affecting them are made without asking them.
 
-* *The person driving an issue owns the decision process.*
-* *A decision is only a decision if there is a “puller” who follows up on the execution.* (we use the term "driver" and "puller" interchangeably)
-* *Important decisions should be documented in our "decision log":dashboard.html and emailed to everyone* 
-* Some decisions lead to funded “projects”, like our new website. The people involved in something like that form a Crisplet. To get funding, there needs to be two “pullers” throughout the whole project. In practice, we seldom have big projects and rarely need to use this model.
+We believe in building an organisation where the autonomy of the individual is balanced by the needs of the community, and we believe that such an organisation is stronger and a better place to work than one where this balance is upset. 
 
-*Example:* If the board is considering to raise the team fee, the board drives that question, and therefore gets to pick the decision process.
+h2. Which decisions are made with the Consultation Process?
 
-*Example:* If I want Crisp to collaborate with company X, then I’m the one driving that question and I pick the decision process.
+Basically all of them!
 
-bq. *Meta:* So how did we decide on this decision-making process?
-Henrik: "Well, we didn’t. I just noticed that people sometimes ask 'so how do we make decisions' and I started thinking about how it appeared to work, and wrote a wiki page describing it. Then I had a followup meeting to check if this is how we really work, and if this is how we want to continue working, and the answer was pretty much Yes on both counts."
+Sometimes the decision is so small and reversible that the decision driver does not feel the need for peer counsel. Or perhaps the decision is quite personal and the counsel to sought form outsiders, eg. family and friends.
+
+Other times the decision affects each and every individual in {{ site.company_name }} and the counsel will be very close to consensus seeking. In such a situation the driver of the decision will normally facilitate the counsel of all and ensure that a sufficient amount are active backing the decision and no-one is opposed to the decision. This would look and feel very much like a consensus seeking decision process, but is basically just the _Consultation Process_ where many are affected.
+
+
+bq. *Meta:* How does Crisp do this?
+This is not one of the areas where we are inspired by Crisp. Crisp does not have *one* well defined decision-making process but has many loosely defined processes
+You can read about Crisp's decision processes at http://dna.crisp.se/docs/decisions.html
+
+The inspiration for our decision-making process comes from [Reinventing Organisations](http://www.reinventingorganizations.com) by Frederic Laloux. If you are interested in alternative ways to run organisations you should really read this extraordinary book.
+
+h2. What if somebody disagrees strongly with a decision?
+
+Sometimes our autonomy focused decision-making process results in people feeling strongly about a decision made by somebody else - and sometimes negatively so (it really happens more seldom than one would think). When this happens our "conflict process":conflict-handling.html come into play.
+
+-------
+
+NOT EDITED YET
 
 h2. How do I pick a decision process?
 
