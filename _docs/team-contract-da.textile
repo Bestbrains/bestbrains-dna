@@ -27,12 +27,20 @@ Arbejdet udføres dels hos {{ site.company_name }}, dels hos {{ site.company_nam
 
 Den ugentlige arbejdstid udgør op til 37 timer. FORNAVN skal føre timeseddel.
 
-Arbejdet skal markedføres som {{ site.company_name }} arbejde, og alt arbejde der udføres af NAVN og FIRMANAVN skal faktureres igennem {{ site.company_name }}.
-{{ site.company_board }} kan dog aftale noget andet fra sag til sag.
+bq(bb-proposal). Denne formulering er ikke god, da den lægger op til et ansættelsesagtigt forhold, hvilket kan være medvirkende til at skat betragter det som reelt en ansættelse. Derudover forstår jeg ikke hvorfor det er nødvendigt i samarbejdsaftalen. Hvis jeg har lyst til at arbejde mere eller mindre i perioder, hvorfor er det så ikke bare noget jeg selv beslutter? Er der en årsag som jeg har overset til at vi har 37 timer som mål?
+_(bb-who)Nino_
+
+Arbejdet skal markedføres som {{ site.company_name }} arbejde, og alt arbejde der udføres af NAVN og FIRMANAVN skal faktureres igennem {{ site.company_name }} med mindre andet aftales med {{ site.company_board }} fra sag til sag.
+
+bq(bb-proposal). Denne begrænsning kan være problematisk i forhold til SKATs vurdering af om det reelt er et ansættelsesforhold, da det er én af de ting der har betydning ... om man har eller har mulighed for at have andre kunder. Hvis det direkte ikke er muligt at have andre kunder står vi svagere.
+_(bb-who)Nino_
 
 h2. Tavshedsforpligtigelse
 
 FORNAVN forpligter sig til at behandle al viden om {{ site.company_name }}' og {{ site.company_name }}' kunders interne forhold fortroligt.
+
+bq(bb-proposal). Denne passage synes jeg også er problematisk. Hvorfor har vi behov for tavshedspligt?
+_(bb-who)Nino_
 
 h2. Fakturering
 
@@ -46,10 +54,23 @@ X% og det faste beløb Y kr reguleres løbende af {{ site.company_board }}.
 
 Betalingsfristen på fakturaen sættes til 10 dage mere end kundens betalingsfrist. Normalt vil fakturaen først blive betalt kort efter kunden har betalt.
 
+h2. Skat
+
+bq(bb-proposal). Der mangler et afsnit om A-skat og AM-bidrag således at BestBrains ikke kan erklæres at have udvist forsømmelighed i forbindelse med tilbageholdes af A-skat og AM-bidrag.
+Crips har en tilsvarende. Jeg er kommet med et bud, men er ikke skarp på hvordan den skal formuleres. Hele aftalen bør nok også sendes forbi advokaten.
+Måske bør der tilføjes et afsnit om at FORNAVN selv strukturere og leder sit arbejde uden tilsyn eller kontrol af BestBrains (FORNAVN har instruksbeføgelsen ikke BestBrains).
+_(bb-who)Nino_
+
+FORNAVNs firma (FIRMANAVN) skal være momsregistreret og er ansvarlig for at afholde relevant lønmodtager bidrag og SKAT.
+
 h2. Opsigelse mm
 
 Denne aftale kan opsiges af begge parter med en måneds varsel til udgangen af en måned.
 Denne aftale erstatter tidligere aftaler mellem {{ site.company_name }} og NAVN eller NAVNs FIRMANAVN.
+
+bq(bb-proposal). Opsigelsesvarsler er igen én af de parametre som SKAT kan lægge til grund for at betragte det som et ansættelsesforhold. Derfor vil vi stå stærkere hvis aftalen kan opsiges uden varsel, så jeg synes vi skal overveje om det reelt har en betydning at der er opsigelsesvarsel?
+_(bb-who)Nino_
+
 
 h2. Underskrifter
 
@@ -71,4 +92,7 @@ NAVN
 Direktør, FIRMANAVN
 
 DATO
+
+bq(bb-proposal). Der står ikke noget eksplicit om kundeforhold, betyder det at vi er enige om at der ikke er nogen former for kundeklausuler forbundet med samarbejdsaftalen med BestBrains? Det mener jeg bestemt ikke der bør være, men jeg er i tvivl om vi er enige? Jeg har i hvert fald hørt termer som "BestBrains' kunde" hvilket tyder på en anden opfattelse.
+_(bb-who)Nino_
 
