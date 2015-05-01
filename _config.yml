@@ -8,6 +8,9 @@ collections:
   docs:
     output: true
 company_name: "Bestbrains"
+company_legalname: "Bestbrains A/S"
+company_legalid: "CVR: 2792 4999"
+company_address: "Sankt Gertruds Stræde 5, 3.sal, 1129 København K"
 company_member: "Bestbrainer"
 company_members: "Bestbrainers"
 company_cell: "Braincell"

@@ -6,11 +6,14 @@ h1. Samarbejdsaftale
 
 h2. Gælder for
 
-{{ site.company_name }} A/S, Sankt Gertruds Stræde 5, 3.sal, 1129 København K
+{{ site.company_legalname }} ({{ site.company_legalid }}), {{ site.company_address }}
 og
-FIRMANAVN (cvr: xxxxxxxx).
+FIRMANAVN (CVR: xxxxxxxx).
 
 FIRMANAVNs forpligtelser ifølge denne aftale udføres alene af NAVN. Andet kan dog aftales med {{ site.company_board }}.
+
+bq(bb-proposal). Jeg er ikke glad for sammenlægningen af bestyrelsen og/eller direktion og så koordinationsudvalg - jeg bestragter dem som to forskellige typer organer. Det ene skal vi have i en eller anden form og det andet har vi selv valgt at have. Derfor er jeg ikke glad for at koordinationsudvalget står i denne aftale, da det gør det mere besværligt at omforme/omnavngive/nedlægge koordinationsudvalget - hvilket jeg ikke mener er hensigtsæssigt. Kan man ikke i stedet blot referere til "kan aftales mellem partnerne" eller noget i den dur?
+_(bb-who)Nino_
 
 h2. Aftalen
 
