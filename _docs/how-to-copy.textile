@@ -6,7 +6,7 @@ next_section:
 
 h1. How to clone the {{ site.company_name }} DNA
 
-The {{ site.company_name }} DNA is "open-source on github":https://github.com/wilstrup/bestbrains-dna, so you are welcome to copy it and create something similar. The DNA is itself a derivative of the "Crisp Open Source DNA":https://github.com/crispab/crisp-dna. Make sure you check out the original as well, to see if either one serves your purpose better.
+The {{ site.company_name }} DNA is "open-source on github":https://github.com/Bestbrains/bestbrains-dna, so you are welcome to copy it and create something similar. The DNA is itself a derivative of the "Crisp Open Source DNA":https://github.com/crispab/crisp-dna. Make sure you check out the original as well, to see if either one serves your purpose better.
 
 h2. Why clone the {{ site.company_name }} DNA?
 
@@ -20,5 +20,5 @@ The {{ site.company_name }} DNA is licensed under "Attribution-ShareAlike 4.0 In
 
 h2. How do I ask questions or give feedback?
 
-If you have a question feel free to "File an issue":https://github.com/wilstrup/bestbrains-dna/issues/new on the bestbrains-dna repo (pick the "question" label to the right). No response guaranteed though.
+If you have a question feel free to "File an issue":https://github.com/Bestbrains/bestbrains-dna/issues/new on the bestbrains-dna repo (pick the "question" label to the right). No response guaranteed though.
 
