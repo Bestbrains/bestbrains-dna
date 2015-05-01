@@ -2,7 +2,7 @@
 title: Team contract, English google translation
 ---
 
-h1. BestBrains Team Contract
+h1. {{ site.company_name }} Team Contract
 
 Hey you! Yes, you. Do you speak Swedish and Danish? If so it would awesome if you could translate the "team contract":team-contract-da.html to English, so we could put it here.
 

@@ -19,7 +19,7 @@ h2. Aftalen
 
 FORNAVN indgår i et tæt samarbejde med {{ site.company_name }} fra DATO. Og er derfor en del af teamet i {{ site.company_name }}.
 
-Hvis det efter 2 år vurderes at samarbejdet skal fortsætte tilbydes FORNAVN medejerskab af {{ site.company_name }} A/S.
+Hvis det efter 2 år vurderes at samarbejdet skal fortsætte tilbydes FORNAVN medejerskab af {{ site.company_legalname }}.
 
 Opgaverne omfatter bl.a. softwareudvikling og rådgivning for {{ site.company_name }}' kunder samt softwareudvikling, systemadministration, markedsføring og salg for {{ site.company_name }}.
 
@@ -44,7 +44,7 @@ _(bb-who)Nino_
 
 h2. Fakturering
 
-FORNAVNs firma (FIRMANAVN) sender en faktura til {{ site.company_name }} A/S for en given måned.
+FORNAVNs firma (FIRMANAVN) sender en faktura til {{ site.company_legalname }} for en given måned.
 
 Fakturabeløbet udregnes som X% af det fakturerede beløb af arbejde, som FORNAVN har udført i den forrige måned.
 Feriepenge er indeholdt i lønnen.
@@ -79,7 +79,7 @@ h3. For {{ site.company_name }}
 
 
 DIREKTØRNAVN
-Direktør, {{ site.company_name }} A/S
+Direktør, {{ site.company_legalname }}
 
 DATO
 
