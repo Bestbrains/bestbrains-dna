@@ -15,7 +15,7 @@ This site is an "open-source":http://en.wikipedia.org/wiki/Open_source site desc
 * Our "ownership model":ownership-model.html is designed to keep our stock financially worthless. There is no incentive to "cash in".
 * Consultants are 100% autonomous. They can do whatever they want (as long as they don't hurt the brand or "our house":what-is-bestbrains.html), and work as much or as little as they want.
 
-{{ site.company_name }} has existed for 15 years, and after many years of experimenting we've converged on an operational model that works well, basically the sweet spot between being an independent consultant and being an employee. We found that a related company in Sweden, "Crisp AB":http://www.crisp.se, operated in much the same way, and had generously decided to formulate and publish it's model as an open source recipy.
+{{ site.company_name }} has existed for 15 years, and after many years of experimenting we've converged on an operational model that works well, basically the sweet spot between being an independent consultant and being an employee. We found that a related company in Sweden, "Crisp AB":http://www.crisp.se, operated in much the same way, and had generously decided to formulate and publish it's model as an open source recipe.
 
 Rather than formulate our own DNA from scratch, we decided to base our own description on the fine work of these people.
 
