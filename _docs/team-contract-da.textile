@@ -10,7 +10,10 @@ h2. Gælder for
 og
 FIRMANAVN (CVR: xxxxxxxx).
 
-FIRMANAVNs forpligtelser ifølge denne aftale udføres alene af NAVN. Andet kan dog aftales med {{ site.company_board }}.
+FIRMANAVNs forpligtelser ifølge denne aftale udføres alene af NAVN. Andet kan dog aftales mellem parterne.
+
+bq(bb-proposal). Jeg har indarbejdet Nino bemærkning
+_(bb-who)Bo_
 
 bq(bb-proposal). Jeg er ikke glad for sammenlægningen af bestyrelsen og/eller direktion og så koordinationsudvalg - jeg bestragter dem som to forskellige typer organer. Det ene skal vi have i en eller anden form og det andet har vi selv valgt at have. Derfor er jeg ikke glad for at koordinationsudvalget står i denne aftale, da det gør det mere besværligt at omforme/omnavngive/nedlægge koordinationsudvalget - hvilket jeg ikke mener er hensigtsæssigt. Kan man ikke i stedet blot referere til "kan aftales mellem partnerne" eller noget i den dur?
 _(bb-who)Nino_
@@ -25,19 +28,36 @@ Opgaverne omfatter bl.a. softwareudvikling og rådgivning for {{ site.company_na
 
 Arbejdet udføres dels hos {{ site.company_name }}, dels hos {{ site.company_name }}' kunder.
 
-Den ugentlige arbejdstid udgør op til 37 timer. FORNAVN skal føre timeseddel.
+FORNAVN aftaler med kunderne hvordan de leverede timer kan dokumenteres.
+
+{{ site.company_name }} anbefaler at FORNAVN ikke binder sig til flere timer, end at FORNAVN kan deltage i fælles aktiviteter og i øvrigt har tid til løbende at dygtiggøre sig.
+
+bq(bb-proposal). Jeg har fjernet de 37 timer - som kom fra et tidligt forslag - og lagt an til at man arbejder mindre end fuld tid
+_(bb-who)Bo_
 
 bq(bb-proposal). Denne formulering er ikke god, da den lægger op til et ansættelsesagtigt forhold, hvilket kan være medvirkende til at skat betragter det som reelt en ansættelse. Derudover forstår jeg ikke hvorfor det er nødvendigt i samarbejdsaftalen. Hvis jeg har lyst til at arbejde mere eller mindre i perioder, hvorfor er det så ikke bare noget jeg selv beslutter? Er der en årsag som jeg har overset til at vi har 37 timer som mål?
 _(bb-who)Nino_
 
-Arbejdet skal markedføres som {{ site.company_name }} arbejde, og alt arbejde der udføres af NAVN og FIRMANAVN skal faktureres igennem {{ site.company_name }} med mindre andet aftales med {{ site.company_board }} fra sag til sag.
+Forslag 1:
+Arbejdet skal markedsføres som {{ site.company_name }}-arbejde, og alt arbejde der udføres af NAVN og FIRMANAVN skal faktureres igennem {{ site.company_name }} med mindre andet aftales mellem parterne fra sag til sag.
+
+Forslag 2:
+Arbejdet skal normalt markedsføres som {{ site.company_name }}-arbejde, og arbejde der udføres af NAVN og FIRMANAVN faktureres normalt igennem {{ site.company_name }}.
+Arbejder der ikke markedsføres som {{ site.company_name }}-arbejde har {{ site.company_name }} ingen ansvar for.
+
+bq(bb-proposal). Jeg har skrevet to forslag - jeg går selv ind for forslag 2, men det er et skifte i holdningen til at være BB'er
+_(bb-who)Bo_
 
 bq(bb-proposal). Denne begrænsning kan være problematisk i forhold til SKATs vurdering af om det reelt er et ansættelsesforhold, da det er én af de ting der har betydning ... om man har eller har mulighed for at have andre kunder. Hvis det direkte ikke er muligt at have andre kunder står vi svagere.
 _(bb-who)Nino_
 
 h2. Tavshedsforpligtigelse
 
-FORNAVN forpligter sig til at behandle al viden om {{ site.company_name }}' og {{ site.company_name }}' kunders interne forhold fortroligt.
+FORNAVN forpligter sig til at behandle al viden om {{ site.company_name }}' kunders interne forhold fortroligt.
+
+bq(bb-proposal). Jeg har fjernet tavshedsforpligtelsen om {{ site.company_name }}.
+At vi i øvrigt skriver det, er vel for at berolige vores kunder om at hvad vi snakker om 'hjemme' på kontoret kommer ikke videre. ISM krævede fx tavshederklæring
+_(bb-who)Bo_
 
 bq(bb-proposal). Denne passage synes jeg også er problematisk. Hvorfor har vi behov for tavshedspligt?
 _(bb-who)Nino_
@@ -62,11 +82,19 @@ Måske bør der tilføjes et afsnit om at FORNAVN selv strukturere og leder sit 
 _(bb-who)Nino_
 
 FORNAVNs firma (FIRMANAVN) skal være momsregistreret og er ansvarlig for at afholde relevant lønmodtager bidrag og SKAT.
+Ledelsen af FORNAVN og FIRMANAVN er alene FORNAVNs ansvar og er ikke kontrolleret af {{ site.company_name }}.
+
+bq(bb-proposal). Jeg har indsat linien ovenfor om ledelse - igen for at fjerne lønmodtager udseende af aftalen.
+Når jeg havde udeladt MOMS og SKAT mm var det fordi jeg synes det fremgår af at aftalen er mellem FIRMANAVN med et CVR-nummer.
+_(bb-who)Bo_
 
 h2. Opsigelse mm
 
-Denne aftale kan opsiges af begge parter med en måneds varsel til udgangen af en måned.
+Denne aftale kan opsiges af begge parter uden varsel, samtidigt aftales det hvordan eksterende kunder som for udført arbejde af FORNAVN fremover skal betjenes.
 Denne aftale erstatter tidligere aftaler mellem {{ site.company_name }} og NAVN eller NAVNs FIRMANAVN.
+
+bq(bb-proposal). Jeg er med på ingen varsel, men har dog indført noget om eksistrende kunder.
+_(bb-who)Bo_
 
 bq(bb-proposal). Opsigelsesvarsler er igen én af de parametre som SKAT kan lægge til grund for at betragte det som et ansættelsesforhold. Derfor vil vi stå stærkere hvis aftalen kan opsiges uden varsel, så jeg synes vi skal overveje om det reelt har en betydning at der er opsigelsesvarsel?
 _(bb-who)Nino_
@@ -95,4 +123,14 @@ DATO
 
 bq(bb-proposal). Der står ikke noget eksplicit om kundeforhold, betyder det at vi er enige om at der ikke er nogen former for kundeklausuler forbundet med samarbejdsaftalen med BestBrains? Det mener jeg bestemt ikke der bør være, men jeg er i tvivl om vi er enige? Jeg har i hvert fald hørt termer som "BestBrains' kunde" hvilket tyder på en anden opfattelse.
 _(bb-who)Nino_
+
+bq(bb-proposal). Jeg er enig med Nino.
+Skal vi have en klausul om at man gerne må tage sine kunder med?
+Og at vi ikke har en konkurrenceklausul - det synes jeg vi skal have.
+Det følgendde er et forslag som kunne indsættes efter tavshedsforpligtigelsen
+_(bb-who)Bo_
+
+h2. Konkurrenceklausul
+
+Der er ingen konkurrenceklausul mellem FIRMANAVN og {{ site.company_name }}. Det betyder, at FORNAVN må tage sine kunder med, hvis denne aftale opsiges, selvom kundenrelationen er etableret via {{ site.company_name }}.
 
