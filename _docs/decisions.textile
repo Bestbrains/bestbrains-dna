@@ -18,11 +18,11 @@ h2. How does the Consultation Process work?
 The proces is quite simple:
 
 * Any one can make any decision
-* When making decisions one must seek the counsel of people affected by the decision
+* When making decisions one must seek the advise of people who are affected by the decision
 
-The counsel can be sought bilaterally or in groups, and usually the decision proposal is adjusted based on the counsel of the peers. Sometimes the counsel sessions are repeated multiple times before a decision is made. But the decision is always in the hands of the person driving the decision-making. 
+The advise can be sought bilaterally or in groups, and usually the decision proposal is adjusted based on the advise of the peers. Sometimes the advise sessions are repeated multiple times before a decision is made. But the decision is always in the hands of the person driving the decision-making. 
 
-This also means that the counsel of the peers does not have to be heeded if the person driving the decision-making is not convinced and believe strongly in his or her own proposal.
+This also means that the advise of the peers does not have to be heeded if the person driving the decision-making is not convinced and believe strongly in his or her own proposal.
 
 h2. Why don’t we have a centalized decision-making process?
 
@@ -34,9 +34,9 @@ h2. Which decisions are made with the Consultation Process?
 
 Basically all of them!
 
-Sometimes the decision is so small and reversible that the decision driver does not feel the need for peer counsel. Or perhaps the decision is quite personal and the counsel to sought form outsiders, eg. family and friends.
+Sometimes the decision is so small and reversible that the decision driver does not feel the need for peer advise. Or perhaps the decision is quite personal and the advise to sought from outsiders, eg. family and friends.
 
-Other times the decision affects each and every individual in {{ site.company_name }} and the counsel will be very close to consensus seeking. In such a situation the driver of the decision will normally facilitate the counsel of all and ensure that a sufficient amount are active backing the decision and no-one is opposed to the decision. This would look and feel very much like a consensus seeking decision process, but is basically just the _Consultation Process_ where many are affected.
+At other times the decision affects everyone in {{ site.company_name }} and the advise seeking will be very close to consensus seeking. In such a situation the driver of the decision will normally seek the advise of all. This would look and feel very much like a consensus seeking decision process, but is basically just the _Consultation Process_ where many are affected.
 
 
 bq. *Meta:* How does Crisp do this?
