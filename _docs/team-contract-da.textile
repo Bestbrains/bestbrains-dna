@@ -31,7 +31,10 @@ Arbejdet skal markedsføres som {{ site.company_name }}-arbejde, og alt arbejde 
 
 Forslag 2:
 Arbejdet skal normalt markedsføres som {{ site.company_name }}-arbejde, og arbejde der udføres af NAVN og FIRMANAVN faktureres normalt igennem {{ site.company_name }}.
-Arbejder der ikke markedsføres som {{ site.company_name }}-arbejde har {{ site.company_name }} ingen ansvar for.
+Arbejder der ikke markedsføres som {{ site.company_name }}-arbejde har {{ site.company_name }} intet ansvar for.
+
+bq(bb-proposal). Advokat: Er forslag 2 skattemæssigt bredre end forslag 1?
+_(bb-who)Bo_
 
 h2. Fakturering
 
@@ -43,18 +46,20 @@ Desuden betales et fast beløb (Y) kr pr måned som fratrækkes fakturaen.
 
 X% og det faste beløb Y kr reguleres løbende.
 
+Der fastsættes desuden et loft over hvormeget der maximalt kan betales pr år - Z kr.
+
 Betalingsfristen på fakturaen sættes til 10 dage mere end kundens betalingsfrist. Normalt vil fakturaen først blive betalt kort efter kunden har betalt.
 
 h2. Skat
 
-FORNAVNs firma (FIRMANAVN) skal være momsregistreret og er ansvarlig for at afholde relevant lønmodtager bidrag og SKAT.
+FORNAVNs firma (FIRMANAVN) skal være momsregistreret og er ansvarlig for at afholde relevant lønmodtagerbidrag og SKAT.
 Ledelsen af FORNAVN og FIRMANAVN er alene FORNAVNs ansvar og er ikke kontrolleret af {{ site.company_name }}.
 
 h2. Ansvar
 
 FIRMANAVN er ansvarlig for arbejde udført af FORNAVN og ved erstatningskrav rejst mod {{ site.company_name }} forbeholder {{ site.company_name }} sig retten til at rejse et tilsvarende krav mod FIRMANAVN.
 
-bq(bb-proposal). Advokat: kan vi undvære denne. er det en god ide, eller vil alle krav komme til FIRMANAVN
+bq(bb-proposal). Advokat: kan vi undvære denne. Er det en god ide, eller vil alle krav komme til FIRMANAVN
 _(bb-who)Bo_
 
 h2. Opsigelse mm
@@ -63,14 +68,15 @@ Denne aftale kan opsiges af begge parter uden varsel, samtidigt aftales det hvor
 
 Denne aftale erstatter tidligere aftaler mellem {{ site.company_name }} og NAVN eller NAVNs FIRMANAVN.
 
-bq(bb-proposal). Er alle enige i at der ikke skal være opsigelsesvarsel
+bq(bb-proposal). Er alle enige i at der ikke skal være opsigelsesvarsel?
+Advokat: Bliver det skattemæssigt mindre lønmodtagerlignende uden opsigelksesvarsel end med fx 1 måneds varsel?
 _(bb-who)Bo_
 
 h2. Kundeforhold
 
 FORNAVN må tage sine kunder med, hvis denne aftale opsiges, selvom kundenrelationen er etableret via {{ site.company_name }}.
 
-bq(bb-proposal). Er alle enige i at der ikke skal være konkurrenceklausul
+bq(bb-proposal). Er alle enige i at der ikke skal være konkurrenceklausul?
 _(bb-who)Bo_
 
 h2. Underskrifter
