@@ -46,6 +46,9 @@ Desuden betales et fast beløb (Y) kr pr måned som fratrækkes fakturaen.
 
 X% og det faste beløb Y kr reguleres løbende.
 
+bq(bb-proposal). Der skal stå noget om "dobbeltbeskatning" - dvs. vi skal ikke betale X% af interne betalinger til hinanden.
+_(bb-who)Bo_
+
 Der fastsættes desuden et loft over hvormeget der maximalt kan betales pr år - Z kr.
 
 Betalingsfristen på fakturaen sættes til 10 dage mere end kundens betalingsfrist. Normalt vil fakturaen først blive betalt kort efter kunden har betalt.
