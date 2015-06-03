@@ -3,8 +3,10 @@ title: Dashboard
 prev_section: bun-protocol.html
 next_section: office-team.html
 ---
+bq(bb-proposal). We have not had anything like this. I propose that we (when we get around to it) try it out and form our own opinion. (Knee-jerk: aren't we small enough that we don't need this?).
+_(bb-who)Morten_
 
-h1. Crisp Dashboard
+h1. {{ site.company_name }} Dashboard
 
 The dashboard is an internal shared google spreadsheet containing our most vital shared information. It started with just the "happiness index":happiness-index.html, and then we gradually added more sheets to it.
 
