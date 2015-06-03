@@ -21,14 +21,11 @@ We measure:
 
 h2. How do we finance the home?
 
-bq(bb-proposal). Fixed fee is new for us. I propose DKK 3000, 20% fee until we know what suits our expandature. (Linked closely to payment for internal services, of course). And when money piles up, we quickly adjust the % fee down (for the entire year). Ceiling? 250 kDKK?
-_(bb-who)Morten_
-
-To cover our costs, every Bestbrainer pays a fixed fee per month + % fee of their revenue. The fixed fee is usually around SEK 3500-5000, and the variable fee is usually around 8-12%. The fee is intended only to cover {{ site.company_name }}'s costs, so we adjust it every quarter based on how much money we have in our coffers. If we have less than our desired liquidity buffer then we raise the fees, and vice versa.
+To cover our costs, every Bestbrainer pays a fixed fee per month + % fee of their revenue. The fixed fee is usually around DKK 2000-4000, and the variable fee is usually around 10-15%. The fee is intended only to cover {{ site.company_name }}'s costs, so we adjust it every quarter based on how much money we have in our coffers. If we have less than our desired liquidity buffer then we raise the fees, and vice versa.
 
 bq. *Why a fixed + variable fee?* If we only had a fixed fee, consultants on the bench would quickly run out of money. And if we had only a variable fee, we might have trouble covering our fixed costs if many consultants are on the bench. With a fixed + variable fee, we get a nice balance that matches the fact that our costs are also fixed + variable. It is also typical Scandiavian to pick a model that is "tilpas":https://en.wikipedia.org/wiki/Lagom - as in, nobody is totally happy and nobody is totally disappointed ;-)
 
-We also have a ceiling, to limit the total fee a consultant pays to {{ site.company_name }} per year (variable + fixed). Some consultants earn a lot more than others and we don't want them to leave just because {{ site.company_name }} gets too expensive. The ceiling is usually around kDKK 250-300 per year.
+We may later add a ceiling, to limit the total fee a consultant pays to {{ site.company_name }} per year (variable + fixed). Some consultants earn a lot more than others and we don't want them to leave just because {{ site.company_name }} gets too expensive. The ceiling could be around kDKK 250-750 per year.
 
 See "Economic model":economic-model.html for concrete examples.
 
@@ -59,11 +56,8 @@ For more see "Recruiting":recruiting.html.
 
 h2. How do we run the company?
 
-bq(bb-proposal). This page talks more about consensus, and less about the advice process. I propose that we change the lingo here to reflect that, since I think that the advice process should be our "most visible" decision process. I think the consensus thing with hand signals could work well for us when we are assembled, though, so I'd like us to test it out more.
-_(bb-who)Morten_
-
 * *Lean & Agile* - our approach is based on lean and "agile":http://agilemanifesto.org principles.
-* *Meritocracy & Consensus* - we don't have titles, managers, or reporting structures. Instead we are a "meritocracy":http://en.wikipedia.org/wiki/Meritocracy, which basically means your power to influence stuff is based on your competence and engagement. Decisions are made mostly using consensus ("here's how":decisions.html).
+* *Meritocracy & Consensus* - we don't have titles, managers, or reporting structures. Instead we are a trust each other to make good decisions. Decisions are made mostly using the advice process ("here's how":decisions.html).
 * *Ask for forgiveness rather than permission* - if you want to start or change something, go ahead! The default answer to any request or idea is "Sure! If you believe in it and want to put time into it!". Very few mistakes are fatal or irreversible, so we encourage each other to just try things rather than seek permission.
 * *Simple models* - being a bunch of smart engineers and process nerds, we can come up with detailed rules and structures for any kind problem. But we really try not to! We don't want to overcomplicate things, and prefer to err on the side of simplicity. Better to have too few rules than too many, and better to follow high level guiding principles than low level detailed procedures.
 
@@ -77,7 +71,7 @@ How are we different from a typical consulting company?
 * {{ site.company_name }} has no other goal than to provide a happy home
 
 How are we different from a typical network of independents?
-* We are dedicated to {{ site.company_name }} - that is, consultants are expected to do all their work and invoicing through Crisp.
+* We are dedicated to {{ site.company_name }} - that is, consultants are expected to do all their work and invoicing through {{ site.company_name }}.
 
 h2. Why does this strategy work?
 
